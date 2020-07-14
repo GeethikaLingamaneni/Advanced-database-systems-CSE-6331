@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+
+        <link rel="stylesheet" href="static/style.css">
+    <title>{% block title %}{% endblock %}  Home</title>
+    {% endblock %}
+</head>
+<body>
+<header>
+<b>
+<h1>Geethika Lingamaneni: 1001743466</h1>
+
+</b>
+</header>
+<hr>
+<p>
+ <form action="/search" method="get">
+  Name:<input type="text" name="name" maxlength="200" width="60"> <input type="submit" value="Search">
+</form>
+</p>
+
+<p>
+ <form action="/remove" method="get">
+   Name: <input type="text" name="nameToRemove" maxlength="200" width="60"> <input type="submit" value="Remove">
+</form>
+</p>
+
+<p>
+ <form action="/searchlessthan99000" method="post">
+  People with salary less than 99000: <input type="submit" value="Search">
+</form>
+</p>
+
+<p>
+ <form action="/updatesalary" method="get">
+   Name: <input type="text" name="nameToUpdate" maxlength="200" width="60"> </br>
+   Change Salary : <input type="text" name="newSalary" maxlength="200" width="60"> </br>
+   <input type="submit" value="Update Salary">
+</form>
+</p>
+
+<p>
+ <form action="/updatekeyword" method="get">
+   Name: <input type="text" name="nameToUpdateKeyword" maxlength="200" width="60"> </br>
+   Change Keyword : <input type="text" name="newkeyword" maxlength="200" width="60"> </br>
+   <input type="submit" value="Update Keyword">
+</form>
+</p>
+
+<p>
+ <form action="/updatepicture" method="get">
+   Name: <input type="text" name="nameToUpdatePic" maxlength="200" width="60"> </br>
+   Change Picture : <input type="file" name="newPicture" maxlength="200" width="60"> </br>
+   <input type="submit" value="Update Picture">
+</form>
+</p>
+
+</body>
+</html>

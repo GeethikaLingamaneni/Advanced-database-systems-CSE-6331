@@ -1,0 +1,233 @@
+
+Name:Geethika Lingamaneni
+Last 4 digits ID:3466
+
+CSE 6331, Cloud Computing					
+
+
+Quiz Q4, 8.10, Summer 2020   (c) DL, UTA, 2020
+
+
+  C&P means cut and paste only those relevant lines from your program(s) into this quiz.
+
+
+ 1.  I understand that I am on my honor during this quiz, I will not collaborate, use 
+     non-allowed sources, and I will not discuss or share this quiz with anyone for the next 
+     12 hours.
+     You MAY: use Google to search, use previous source code, 
+     YOU MAY NOT use:
+     Email, Facebook, Hangouts, IM, chats, Skype or ANY other human connection.
+
+     This is a timed test. Late tests will have points deducted for being late.
+     Very late tests will not be graded.
+
+     When you are complete, with any part, please send the link, raise your hand, so we may visually inspect that part.
+
+     The second part of the test, you should electronically submit, you will need to copy and paste 
+     only those lines of code to implement that part of the test, usually a few (two to eight) lines of code. 
+     Place it immediately after the question.
+
+     Submit this Quiz (renamed) with code cut and pasted, ONLY text. DO NOT submit zips, binaries, libraries,
+     or anything other than text.
+
+     When any parts(questions) are complete complete, submit this test, you may make multiple submissions.
+
+     If you have computer, or other, problems, please raise your hand immediately.
+
+     If you understand and agree, please initial here:
+     _______L__________
+
+ 2. Get files from this same folder.
+   
+ 3. Name your program/submission with your name and last digits of your ID.
+
+ 4a. Using the cloud services provider, all functionality possible should be implemented on that provider.
+     (Of course, displaying web pages through a browser and the user interface is "local")
+
+ 4b. Upload all data files (*csv, not this quiz) to cloud service. 
+  
+Show and submit code, when each part is complete, raise your hand and then show us:
+
+ To recieve credit you MUST show (demo) AND submit the code (text only) on Canvas.
+
+ 5. Allow a user, through a web form, to give a country name, and range of years, then display a pie chart 
+    where each pie slice is a percentage of the total for that range of years (that is for a country,
+    if the year range was for 2001 to 2004, with the values: 5, 10, 10, 15; then the pie chart should show
+    2001 with 5/(5+10+10+15) (1/8 pie slice), the 10's should be one quarter and 15 should be 3/8 pie slice.)
+    Each pie slice should be in a different color, please show year labels outside each slice, and 
+    percent inside each pie slice.
+    Display the chart on that page, which is at least 3/4 (75 to 90%) the width of the screen. 
+
+
+
+
+def piechart(country=None,yrf=None, yrt=None):
+    dbconn =pypyodbc.connect('Driver={ODBC Driver 17 for SQL Server};Server=tcp:geethikasqlserver.database.windows.net,1433;Database=adbdb;Uid=geethika;Pwd=Lin@2598;Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30')
+    #dbconn = pypyodbc.connect('DRIVER='+driver+';SERVER='+server+';PORT=1433;DATABASE='+database+';UID='+username+';PWD='+ password)
+    cursor = dbconn.cursor()
+    success="SELECT Smokers,Year from s where Year between '"+str(yrf)+"'and '"+str(yrt)+"' and Entity = '"+str(country)+"'"
+    cursor.execute(success)
+    result_set = cursor.fetchall()
+    sizes=[]
+    labels = []
+    for row in result_set:
+        sizes.append(row[0])
+        labels.append(row[1])
+    print(labels)
+    print(sizes)
+    colors = ['gold', 'yellowgreen', 'lightcoral','blue','red','brown']
+    plt.pie(sizes,labels=labels, autopct='%1.1f%%', shadow=True, startangle=90)
+    plt.axis('equal')
+    img = BytesIO()
+    plt.savefig(img, format='png')
+    img.seek(0)
+    plot_url = base64.b64encode(img.getvalue()).decode()
+    plt.show()
+    plt.clf()
+    return render_template('success.html',plot_url=plot_url)
+def make_autopct(values):
+    def my_autopct(pct):
+        total = sum(values)
+        val = int(round(pct*total/100.0))
+        return '{p:.2f}%  ({v:d})'.format(p=pct,v=val)
+    return my_autopct
+
+
+@app.route('/ques5', methods=['GET'])
+def q5():
+    country = request.args.get('country','')
+    yrf = request.args.get('yrf','')
+    yrt = request.args.get('yrt','')
+    return piechart(country,yrf,yrt) 
+p><b>Q5</p>
+    <form action="/ques5" method="get">
+       
+       Year from :<input type="text" name="yrf" maxlength="200" width="60">
+     to  :<input type="text" name="yrt" maxlength="200" width="60"><br/>
+     Country name :<input type="text" name="cou" maxlength="200" width="60"><br/>
+      <input type="submit" value="Pie Chart"><br/><br/>
+   </form> 
+
+
+
+
+ 6. Please show a page, followed by a bar chart on that page, where the user, through a web form, 
+    will give a range of years and a country name and you will show a horizontal bar chart where for each year the bar represents 
+    the number of smokers. Please "normalize" the lengths of bars so that the graph occupies half the width of the screen. 
+    Please color the bars green, and show the number of smokers, inside each bar.
+
+<p><b>Q6</b></p>
+    <form action="/ques6" method="get">
+      
+       Year from :<input type="text" name="yrf6" maxlength="200" width="60">
+      to :<input type="text" name="yrt6" maxlength="200" width="60"><br/>
+      Country name :<input type="text" name="cou6" maxlength="200" width="60"><br/>
+      <input type="submit" value="Bar chart"><br/><br/>
+   </form> 
+def barchart(counrty6=None,yrf6=None,yrt6=None):
+    dbconn =pypyodbc.connect('Driver={ODBC Driver 17 for SQL Server};Server=tcp:geethikasqlserver.database.windows.net,1433;Database=adbdb;Uid=geethika;Pwd=Lin@2598;Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30')
+    #dbconn = pypyodbc.connect('DRIVER='+driver+';SERVER='+server+';PORT=1433;DATABASE='+database+';UID='+username+';PWD='+ password)
+    cursor = dbconn.cursor()
+    success="SELECT Smokers,Year from s where Year between '"+str(yrf6)+"'and '"+str(yrt6)+"' and Entity = '"+str(country6)+"'"
+    cursor.execute(success)
+    result_set = cursor.fetchall()
+    sizes=[]
+    labels = []
+    for row in result_set:
+        sizes.append(row[0])
+        labels.append(row[1])
+    print(labels)
+    print(sizes)
+    y_pos = np.arange(len(labels))
+    fig, ax = plt.subplots()    
+    width = 0.75 # the width of the bars 
+    ax.barh(y_pos, sizes, width, color=('green'))
+    ax.set_yticks(y_pos+width/2)
+    ax.set_yticklabels(labels, minor=False)
+    #plt.bar(y_pos, performance, color=('gold', 'yellowgreen', 'lightcoral','blue','red'),align='center', alpha=0.5)
+    #plt.xticks(y_pos, objects)
+    plt.ylabel('Years')
+    plt.xlabel('Smokers')
+    for i, v in enumerate(sizes):
+        ax.text(v + 3, i + .25, str(v), color='black', fontweight='bold')
+    img = BytesIO()
+    plt.savefig(img, format='png')
+    img.seek(0)
+    plot_url = base64.b64encode(img.getvalue()).decode()
+    plt.show()
+    plt.clf()
+    return render_template('success2.html',plot_url=plot_url)
+
+
+
+@app.route('/ques6', methods=['GET'])
+def qu6():
+    country6 = request.args.get('country6','')
+    yrf6 = request.args.get('yrf6','')
+    yrt6 = request.args.get('yrt6','')
+    return barchart(country6,yrf6,yrt6) 
+
+
+
+
+ 7. Allow a user, through a web form, to give a country name, and a range of years, and
+    show a point chart (scatter diagram)  where the X axis is the year 
+    (please start with the first year given, which may be less than the data set, that is we may ask you
+    to start with 1970, or end with 2020) and the Y axis is the number of smokers. 
+    Please scale so that it fits on the screen.
+
+
+
+def scatterplot(country7=None,yrf7=None,yrt7=None):
+    dbconn =pypyodbc.connect('Driver={ODBC Driver 17 for SQL Server};Server=tcp:geethikasqlserver.database.windows.net,1433;Database=adbdb;Uid=geethika;Pwd=Lin@2598;Encrypt=yes;TrustServerCertificate=no;Connection Timeout=30')
+    #dbconn = pypyodbc.connect('DRIVER='+driver+';SERVER='+server+';PORT=1433;DATABASE='+database+';UID='+username+';PWD='+ password)
+    cursor = dbconn.cursor()
+    success="SELECT Smokers,Year from s where Year between '"+str(yrf7)+"'and '"+str(yrt7)+"' and Entity = '"+str(country7)+"'"
+    cursor.execute(success)
+    result_set = cursor.fetchall()
+    sizes=[]
+    labels = []
+    for row in result_set:
+        sizes.append(row[0])
+        labels.append(row[1])
+    print(labels)
+    print(sizes)
+    plt.scatter(labels,sizes,color="blue",alpha=0.5,marker="*")
+    plt.xticks(labels)
+    plt.xlabel("Years")
+    plt.ylabel("Smokers")
+    img = BytesIO()
+    plt.savefig(img, format='png')
+    img.seek(0)
+    plot_url = base64.b64encode(img.getvalue()).decode()  
+    plt.show()
+    plt.clf()
+    return render_template('success3.html',plot_url=plot_url) 
+
+
+@app.route('/ques7', methods=['GET'])
+def q7():
+    country7 = request.args.get('country7','')
+    yrf7 = request.args.get('yrf7','')
+    yrt7 = request.args.get('yrt7','')
+    return scatterplot(country7,yrf7,yrt7) 
+
+   <p><b>Q7 </b></p>
+    <form action="/ques7" method="get">
+       
+       Year from :<input type="text" name="yrf7" maxlength="200" width="60">
+        to  :<input type="text" name="yrt7" maxlength="200" width="60"><br/>
+        Country name :<input type="text" name="cou7" maxlength="200" width="60"><br/>
+      <input type="submit" value="Scatter plot"><br/><br/>
+   </form> 
+
+
+
+
+ 
+ 8. Show us, in a link, the application running and we will try it out. Only for parts 5, 6, 7
+
+ 9. When complete, return (send) this quiz
+     If you finish early, send this immediately, otherwise send between
+     the end of class and no more than 1 minute after that.
+

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+    <title>{% block title %}{% endblock %}  Home</title>
+    {% endblock %}
+</head>
+<body>
+<header>
+<b>
+Geethika Lingamaneni <br>
+ 1001743466 <br>
+
+</b>
+</header>
+<p>
+ 
+    <p>
+        <form action="/displaydata" method="get">
+          Magnitude Range from<input type="text" name="rangefrom1" maxlength="200" width="60"> <br/>
+           Magnitude Range To<input type="text" name="rangeto1" maxlength="200" width="60"><br/>
+      
+
+	<input type="submit" value="Scattered plot"><br/><br/>
+</form>
+</p>
+<p>
+ <form action="/pie" method="get">
+    Magnitude Range from<input type="text" name="rangefrom" maxlength="200" width="60"> <br/>
+    Magnitude Range To<input type="text" name="rangeto" maxlength="200" width="60"><br/>
+   
+	<input type="submit" value="Pie chart"><br/><br/>
+</form>
+</p>
+ <p>
+ <form action="/bar" method="get">
+    Magnitude Range from<input type="text" name="rangefrom1" maxlength="200" width="60"> <br/>
+           Magnitude Range To<input type="text" name="rangeto1" maxlength="200" width="60"><br/>
+        
+	<input type="submit" value="Bar chart"><br/><br/>
+</form>
+</p> 
+
+</body>
+</html>

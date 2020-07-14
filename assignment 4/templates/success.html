@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+    <title>{% block title %}{% endblock %}  Home</title>
+    {% endblock %}
+</head>
+<body>
+<header>
+<b>
+    Geethika Lingamaneni <br>
+    1001743466 <br>
+</b>
+</header>
+
+<p>
+ Data analysis done successfully.
+
+ {% block content %}
+
+<img src="data:image/png;base64, {{ plot_url }}" > 
+
+{% endblock %}
+</p>
+
+</body>
+</html>

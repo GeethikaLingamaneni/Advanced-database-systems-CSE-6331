@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+    <title>{% block title %}{% endblock %}  Home</title>
+    {% endblock %}
+</head>
+<body>
+<header>
+
+  <h1>Geethika Lingamaneni<br>
+    1001743466
+    </h1>
+</header>
+<h3>Words that are matched:</h3>
+{% for s in gw %}
+   
+  <p style="color:green;">{{s}}</p>
+  
+{% endfor %}
+
+<h3>Words that are not matched:</h3>
+{% for v in rw %}
+   
+  <p style="color:red;">{{v}}</p>
+  <br>
+  <form action="/but1">
+      <input type="text" name="b1" >
+      <button type="submit" > Spanish </button>
+    </form> <br>
+  <form action="/but2">
+      <input type="text" name="b2" >
+      <button type="submit" >Search for closest word in English</button>
+    </form>
+{% endfor %}
+</body>
+</html>

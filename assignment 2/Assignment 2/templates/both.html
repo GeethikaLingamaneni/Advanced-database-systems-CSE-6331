@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+    <title>{% block title %}{% endblock %} Results </title>
+    {% endblock %}
+</head>
+<body>
+<header>
+
+<h1>Geethika Lingamaneni: 1001743466</h1>
+
+</header>
+<p>
+{% block content %}
+{% for ci in r %}
+  <p><b>dallas: {{ci}}</b></p>
+ 
+{% for d in l %}  
+  <p><b>anchorage: {{d}}</b></p>
+  
+  The number of earth quakes within 1000kms of Anchorage: {{d}} is more than Dallas: {{ci}}
+
+{% endfor %}
+{% endfor %} 
+{% endblock %}
+
+</body>
+</html>

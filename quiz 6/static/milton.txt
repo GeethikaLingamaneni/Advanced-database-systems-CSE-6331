@@ -1,0 +1,2307 @@
+The Project Gutenberg EBook of Milton, by Thomas Macaulay
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: Milton
+
+Author: Thomas Macaulay
+
+Release Date: July 6, 2020 [EBook #62572]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK MILTON ***
+
+
+
+
+Produced by Andrés V. Galia and the Online Distributed
+Proofreading Team at https://www.pgdp.net (This book was
+produced from images made available by the HathiTrust
+Digital Library.)
+
+
+
+
+
+
+
+                          TRANSCRIBER'S NOTES
+
+Italic text is denoted by _underscores_.
+
+The original text was not separated in chapters. For the only purpose
+of facilitating the navigation on the HTML version and hand-held
+devices chapters were added to the transcribed text. The addition of
+those chapters was arbitrary and did not follow any particular logic.
+Consequently, the Table of Contents was also added by the Transcriber.
+
+The book cover was modified by the Transcriber and has been added to
+the public domain.
+
+A number of words in this book have both hyphenated and non-hyphenated
+variants. For the words with both variants present the one more used
+has been kept.
+
+Obvious punctuation and other printing errors have been silently
+corrected.
+
+                   *       *       *       *       *
+
+
+
+
+                                MILTON
+
+
+                       Thomas Babington Macaulay
+
+
+                    NEW YORK, H. M. CALDWELL & Co.
+                                 1900
+
+
+
+
+                           TABLE OF CONTENTS
+
+
+                                                          Pag.
+
+        CHAPTER I                                          1
+
+        CHAPTER II                                         9
+
+        CHAPTER III                                       26
+
+        CHAPTER IV                                        43
+
+        CHAPTER V                                         76
+
+        CHAPTER VI                                       113
+
+        CHAPTER VII                                      149
+
+
+                               MILTON[1]
+
+
+
+
+                               CHAPTER I
+
+
+Toward the close of the year 1823, Mr. Lemon, deputy keeper of the
+state papers, in the course of his researches among the presses of
+his office, met with a large Latin manuscript. With it were found
+corrected copies of the foreign despatches written by Milton, while he
+filled the office of Secretary, and several papers relating to the
+Popish Trials and the Rye-House Plot. The whole was wrapped up in an
+envelope, superscribed _To Mr. Skinner, Merchant_. On examination, the
+large manuscript proved to be the long lost Essay on the Doctrines of
+Christianity, which, according to Wood and Toland, Milton finished
+after the Restoration, and deposited with Cyriac Skinner. Skinner, it
+is well known, held the same political opinions with his illustrious
+friend. It is therefore probable, as Mr. Lemon conjectures, that he
+may have fallen under the suspicions of the government during that
+persecution of the Whigs which followed the dissolution of the Oxford
+parliament, and that, in consequence of a general seizure of his
+papers, this work may have been brought to the office in which it has
+been found. But whatever the adventures of the manuscript may have
+been, no doubt can exist that it is a genuine relic of the great poet.
+
+Mr. Sumner, who was commanded by his Majesty to edit and translate the
+treatise, has acquitted himself of his task in a manner honourable to
+his talents and to his character. His version is not indeed very easy
+or elegant; but it is entitled to the praise of clearness and fidelity.
+His notes abound with interesting quotations, and have the rare merit
+of really elucidating the text. The preface is evidently the work of
+a sensible and candid man, firm in his own religious opinions, and
+tolerant toward those of others.
+
+The book itself will not add much to the fame of Milton. It is, like
+all his Latin works, well written, though not exactly in the style
+of the prize essays of Oxford and Cambridge. There is no elaborate
+imitation of classical antiquity, no scrupulous purity, none of the
+ceremonial cleanness which characterises the diction of our academical
+Pharisees. The author does not attempt to polish and brighten his
+composition into the Ciceronian gloss and brilliancy. He does not in
+short sacrifice sense and spirit to pedantic refinements. The nature of
+his subject compelled him to use many words
+
+ "That would have made Quintilian stare and gasp."
+
+But he writes with as much ease and freedom as if Latin were his
+mother tongue; and, where he is least happy, his failure seems to
+arise from the carelessness of a native, not from the ignorance of a
+foreigner. We may apply to him what Denham with great felicity says of
+Cowley. He wears the garb, but not the clothes of the ancients.
+
+Throughout the volume are discernible the traces of a powerful and
+independent mind, emancipated from the influence of authority, and
+devoted to the search of truth. Milton professes to form his system
+from the Bible alone; and his digest of Scriptural texts is certainly
+among the best that have appeared. But he is not always so happy in his
+inferences as in his citations.
+
+Some of the heterodox doctrines which he avows seemed to have excited
+considerable amazement, particularly his Arianism, and his theory on
+the subject of polygamy. Yet we can scarcely conceive that any person
+could have read the "Paradise Lost" without suspecting him of the
+former; nor do we think that any reader, acquainted with the history
+of his life, ought to be much startled at the latter. The opinions
+which he has expressed respecting the nature of the Deity, the eternity
+of matter, and the observation of the Sabbath, might, we think, have
+caused more just surprise.
+
+But we will not go into the discussion of these points. The book, were
+it far more orthodox or far more heretical than it is, would not much
+edify or corrupt the present generation. The men of our time are not
+to be converted or perverted by quartos. A few more days, and this
+essay will follow the _Defensio Populi_, to the dust and silence of the
+upper shelf. The name of its author, and the remarkable circumstances
+attending its publication, will secure to it a certain degree of
+attention. For a month or two it will occupy a few minutes of chat in
+every drawing-room, and a few columns in every magazine; and it will
+then, to borrow the elegant language of the play-bills, be withdrawn,
+to make room for the forthcoming novelties.
+
+We wish, however, to avail ourselves of the interest, transient as it
+may be, which this work has excited. The dexterous Capuchins never
+choose to preach on the life and miracles of a saint till they have
+awakened the devotional feelings of their auditors by exhibiting some
+relic of him, a thread of his garment, a lock of his hair, or a drop of
+his blood. On the same principle, we intend to take advantage of the
+late interesting discovery, and, while this memorial of a great and
+good man is still in the hands of all, to say something of his moral
+and intellectual qualities. Nor, we are convinced, will the severest
+of our readers blame us if, on an occasion like the present, we turn
+for a short time from the topics of the day, to commemorate, in all
+love and reverence, the genius and virtues of John Milton, the poet,
+the statesman, the philosopher, the glory of English literature, the
+champion and the martyr of English liberty.
+
+
+                              FOOTNOTES:
+
+[1] _Jonnis Miltoni Angli, de Doctrinâ Christiana libri duo posthumi._
+A Treatise on Christian Doctrine, compiled from the Holy Scriptures
+alone. By John Milton, translated from the Original by Charles R.
+Sumner, M. A., etc., 1825.
+
+
+
+
+                              CHAPTER II
+
+
+It is by his poetry that Milton is best known; and it is of his poetry
+that we wish first to speak. By the general suffrage of the civilised
+world, his place has been assigned among the greatest masters of the
+art. His detractors, however, though outvoted, have not been silenced.
+There are many critics, and some of great name, who contrive in the
+same breath to extol the poems and to decry the poet. The works they
+acknowledge, considered in themselves, may be classed among the noblest
+productions of the human mind. But they will not allow the author to
+rank with those great men who, born in the infancy of civilisation,
+supplied, by their own powers, the want of instruction, and, though
+destitute of models themselves, bequeathed to posterity models which
+defy imitation. Milton, it is said, inherited what his predecessors
+created; he lived in an enlightened age; he received a finished
+education; and we must therefore, if we would form a just estimate of
+his powers, make large deductions in consideration of these advantages.
+
+We venture to say, on the contrary, paradoxical as the remark may
+appear, that no poet has ever had to struggle with more unfavourable
+circumstances than Milton. He doubted, as he has himself owned, whether
+he had not been born "an age too late." For this notion Johnson has
+thought fit to make him the butt of much clumsy ridicule. The poet,
+we believe, understood the nature of his art better than the critic.
+He knew that his poetical genius derived no advantage from the
+civilisation which surrounded him, or from the learning which he had
+acquired; and he looked back with something like regret to the ruder
+age of simple words and vivid impressions.
+
+We think that, as civilisation advances, poetry almost necessarily
+declines. Therefore, though we fervently admire those great works of
+imagination which have appeared in dark ages, we do not admire them the
+more because they have appeared in dark ages. On the contrary, we hold
+that the most wonderful and splendid proof of genius is a great poem
+produced in a civilised age. We cannot understand why those who believe
+in that most orthodox article of literary faith, that the earliest
+poets are generally the best, should wonder at the rule as if it were
+the exception. Surely the uniformity of the phenomenon indicates a
+corresponding uniformity in the cause.
+
+The fact is, that common observers reason from the progress of the
+experimental science to that of the imitative arts. The improvement of
+the former is gradual and slow. Ages are spent in collecting materials,
+ages more in separating and combining them. Even when a system has
+been formed, there is still something to add, to alter, or to reject.
+Every generation enjoys the use of a vast hoard bequeathed to it by
+antiquity, and transmits that hoard, augmented by fresh acquisitions,
+to future ages. In these pursuits, therefore, the first speculators lie
+under great disadvantages, and, even when they fail, are entitled to
+praise. Their pupils, with far inferior intellectual powers, speedily
+surpass them in actual attainments. Every girl who has read Mrs.
+Marcet's little dialogues on Political Economy could teach Montague
+or Walpole many lessons in finance. Any intelligent man may now, by
+resolutely applying himself for a few years to mathematics, learn more
+than the great Newton knew after half a century of study and meditation.
+
+But it is not thus with music, with painting, or with sculpture. Still
+less is it thus with poetry. The progress of refinement rarely supplies
+these arts with better objects of imitation. It may indeed improve the
+instruments which are necessary to the mechanical operations of the
+musician, the sculptor, and the painter. But language, the machine of
+the poet, is best fitted for his purpose in its rudest state. Nations,
+like individuals, first perceive, and then abstract. They advance
+from particular images to general terms. Hence the vocabulary of an
+enlightened society is philosophical, that of a half-civilised people
+is poetical.
+
+This change in the language of men is partly the cause and partly the
+effect of a corresponding change in the nature of their intellectual
+operations, of a change by which science gains and poetry loses.
+Generalisation is necessary to the advancement of knowledge; but
+particularly is indispensable to the creations of the imagination.
+In proportion as men know more and think more, they look less at
+individuals and more at classes. They therefore make better theories
+and worse poems. They give us vague phrases instead of images, and
+personified qualities instead of men. They may be better able to
+analyse human nature than their predecessors. But analysis is not the
+business of the poet. His office is to portray, not to dissect. He may
+believe in a moral sense, like Shaftesbury; he may refer all human
+actions to self-interest, like Helvetius; or he may never think about
+the matter at all. His creed on such subjects will no more influence
+his poetry, properly so called, than the notions which a painter may
+have conceived respecting the lacrymal glands, or the circulation of
+the blood, will affect the tears of his Niobe, or the blushes of his
+Aurora. If Shakespeare had written a book on the motives of human
+actions, it is by no means certain that it would have been a good one.
+It is extremely improbable that it would have contained half so much
+able reasoning on the subject as is to be found in the Fable of the
+Bees. But could Mandeville have created an Iago? Well as he knew how
+to resolve characters into their elements, would he have been able to
+combine those elements in such a manner as to make up a man, a real,
+living, individual man?
+
+Perhaps no person can be a poet, or can even enjoy poetry, without a
+certain unsoundness of mind, if anything which gives so much pleasure
+ought to be called unsoundness. By poetry we mean not all writing in
+verse, nor even all good writing in verse. Our definition excludes many
+metrical compositions which, on other grounds, deserve the highest
+praise. By poetry we mean the art of employing words in such a manner
+as to produce an illusion on the imagination, the art of doing by means
+of words what the painter does by means of colours. Thus the greatest
+of poets has described it, in lines universally admired for the vigour
+and felicity of their diction, and still more valuable on account of
+the just notion which they convey of the art in which he excelled.
+
+              "As imagination bodies forth
+      The forms of things unknown, the poet's pen
+      Turns them to shapes, and gives to airy nothing
+      A local habitation and a name."
+
+These are the fruits of the "fine frenzy" which he ascribes to the
+poet,--a fine frenzy doubtless, but still a frenzy. Truth, indeed, is
+essential to poetry; but it is the truth of madness. The reasonings
+are just; but the premises are false. After the first suppositions
+have been made, everything ought to be consistent; but those first
+suppositions require a degree of credulity which almost amounts to a
+partial and temporary derangement of the intellect. Hence of all people
+children are the most imaginative. They abandon themselves without
+reserve to every illusion. Every image which is strongly presented
+to their mental eye produces on them the effect of reality. No man,
+whatever his sensibility may be, is ever affected by Hamlet or Lear,
+as a little girl is affected by the story of poor Red Riding-hood. She
+knows that it is all false, that wolves cannot speak, that there are
+no wolves in England. Yet in spite of her knowledge she believes; she
+weeps; she trembles; she dares not go into a dark room lest she should
+feel the teeth of the monster at her throat. Such is the despotism of
+the imagination over uncultivated minds.
+
+In a rude state of society men are children with a greater variety of
+ideas. It is therefore in such a state of society that we may expect
+to find the poetical temperament in its highest perfection. In an
+enlightened age there will be much intelligence, much science, much
+philosophy, abundance of just classification and subtle analysis,
+abundance of wit and eloquence, abundance of verses, and even of good
+ones; but little poetry. Men will judge and compare; but they will
+not create. They will talk about the old poets, and comment on them,
+and to a certain degree enjoy them. But they will scarcely be able to
+conceive the effect which poetry produced on their ruder ancestors, the
+agony, the ecstasy, the plenitude of belief. The Greek Rhapsodists,
+according to Plato, could scarce recite Homer without falling into
+convulsions. The Mohawk hardly feels the scalping knife while he
+shouts his death-song. The power which the ancient bards of Wales and
+Germany exercised over their auditors seems to modern readers almost
+miraculous. Such feelings are very rare in a civilised community, and
+most rare among those who participate most in its improvements. They
+linger longest among the peasantry.
+
+Poetry produces an illusion on the eye of the mind, as a magic lantern
+produces an illusion on the eye of the body. And, as the magic lantern
+acts best in a dark room, poetry effects its purpose most completely in
+a dark age. As the light of knowledge breaks in upon its exhibitions,
+as the outlines of certainty become more and more definite, and the
+shades of probability more and more distinct, the hues and lineaments
+of the phantoms which the poet calls up grow fainter and fainter. We
+cannot unite the incompatible advantages of reality and deception, the
+clear discernment of truth and the exquisite enjoyment of fiction.
+
+He who, in an enlightened and literary society, aspires to be a great
+poet, must first become a little child. He must take to pieces the
+whole web of his mind. He must unlearn much of that knowledge which
+has perhaps constituted hitherto his chief title to superiority. His
+very talents will be a hindrance to him. His difficulties will be
+proportioned to his proficiency in the pursuits which are fashionable
+among his contemporaries; and that proficiency will in general be
+proportioned to the vigour and activity of his mind. And it is
+well if, after all his sacrifices and exertions, his works do not
+resemble a lisping man or a modern ruin. We have seen in our own time
+great talents, intense labour, and long meditation, employed in this
+struggle against the spirit of the age, and employed, we will not say,
+absolutely in vain, but with dubious success and feeble applause.
+
+If these reasonings be just, no poet has ever triumphed over greater
+difficulties than Milton. He received a learned education; he was
+a profound and elegant classical scholar; he had studied all the
+mysteries of Rabbinical literature; he was intimately acquainted
+with every language of modern Europe, from which either pleasure or
+information was then to be derived. He was perhaps the only great poet
+of later times who has been distinguished by the excellence of his
+Latin verse. The genius of Petrarch was scarcely of the first order;
+and his poems in the ancient language, though much praised by those who
+have never read them, are wretched compositions. Cowley, with all his
+admirable wit and ingenuity, had little imagination; nor indeed do we
+think his classical diction comparable to that of Milton. The authority
+of Johnson is against us on this point. But Johnson had studied the bad
+writers of the middle ages till he had become utterly insensible to the
+Augustan elegance, and was as ill qualified to judge between two Latin
+styles as a habitual drunkard to set up for a wine-taster.
+
+Versification in a dead language is an exotic, a far-fetched, costly,
+sickly, imitation of that which elsewhere may be found in healthful
+and spontaneous perfection. The soils on which this rarity flourishes
+are in general as ill-suited to the production of vigorous native
+poetry as the flower-pots of a hothouse to the growth of oaks. That the
+author of the Paradise Lost should have written the Epistle to Manso
+was truly wonderful. Never before were such marked originality and such
+exquisite mimicry found together. Indeed in all the Latin poems of
+Milton the artificial manner indispensable to such works is admirably
+preserved, while, at the same time, his genius gives to them a peculiar
+charm, an air of nobleness and freedom, which distinguishes them from
+all other writings of the same class. They remind us of the amusements
+of those angelic warriors who composed the cohort of Gabriel:
+
+      "About him exercised heroic games
+      The unarmed youth of heaven. But o'er their heads
+      Celestial armory, shield, helm, and spear,
+      Hung high, with diamond flaming and with gold."
+
+
+
+
+                              CHAPTER III
+
+
+We cannot look upon the sportive exercises for which the genius of
+Milton ungirds itself without catching a glimpse of the gorgeous and
+terrible panoply which it is accustomed to wear. The strength of his
+imagination triumphed over every obstacle. So intense and ardent was
+the fire of his mind, that it not only was not suffocated beneath the
+weight of fuel, but penetrated the whole superincumbent mass with its
+own heart and radiance.
+
+It is not our intention to attempt anything like a complete examination
+of the poetry of Milton. The public has long been agreed as to the
+merit of the most remarkable passages, the incomparable harmony of the
+numbers, and the excellence of that style, which no rival has been able
+to equal, and no parodist to degrade, which displays in their highest
+perfection the idiomistic powers of the English tongue, and to which
+every ancient and every modern language has contributed something of
+grace, of energy, or of music. In the vast field of criticism on which
+we are entering innumerable reapers have already put their sickles. Yet
+the harvest is so abundant that the negligent search of a straggling
+gleaner may be rewarded with a sheaf.
+
+The most striking characteristic of the poetry of Milton is the extreme
+remoteness of the associations by means of which it acts on the reader.
+Its effect is produced, not so much by what it expresses, as by what
+it suggests; not so much by the ideas which it directly conveys, as
+by other ideas which are connected with them. He electrifies the mind
+through conductors. The most unimaginative man must understand the
+Iliad. Homer gives him no choice, and requires from him no exertion,
+but takes the whole upon himself, and sets the images in so clear a
+light, that it is impossible to be blind to them. The works of Milton
+cannot be comprehended or enjoyed, unless the mind of the reader
+coöperate with that of the writer. He does not paint a finished
+picture, or play for a mere passive listener. He sketches, and leaves
+others to fill up the outline. He strikes the key-note, and expects his
+hearer to make out the melody.
+
+We often hear of the magical influence of poetry. The expression in
+general means nothing: but, applied to the writings of Milton, it is
+most appropriate. His poetry acts like an incantation. Its merit lies
+less in its obvious meaning than in its occult power. There would seem,
+at first sight, to be no more in his words than in other words. But
+they are words of enchantment. No sooner are they pronounced, than
+the past is present and the distant near. New forms of beauty start
+at once into existence, and all the burial-places of the memory give
+up their dead. Change the structure of the sentence; substitute one
+synonyme for another, and the whole effect is destroyed. The spell
+loses its power; and he who should then hope to conjure with it would
+find himself as much mistaken as Cassim in the Arabian tale, when he
+stood crying, "Open Wheat," "Open Barley," to the door which obeyed no
+sound but "Open Sesame." The miserable failure of Dryden in his attempt
+to translate into his own diction some part of the Paradise Lost, is a
+remarkable instance of this.
+
+In support of these observations, we may remark that scarcely any
+passages in the poems of Milton are more generally known or more
+frequently repeated than those which are little more than muster-rolls
+of names. They are not always more appropriate or more melodious than
+other names. But they are charmed names. Every one of them is the first
+link in a long chain of associated ideas. Like the dwelling-place of
+our infancy revisited in manhood, like the song of our country heard
+in a strange land, they produce upon us an effect wholly independent
+of their intrinsic value. One transports us back to a remote period
+of history. Another places us among the novel scenes and manners of a
+distant region. A third evokes all the dear classical recollections of
+childhood, the schoolroom, the dogeared Virgil, the holiday, and the
+prize. A fourth brings before us the splendid phantoms of chivalrous
+romance, the trophied lists, the embroidered housings, the quaint
+devices, the haunted forests, the enchanted gardens, the achievements
+of enamoured knights, and the smiles of rescued princesses.
+
+In none of the works of Milton is his peculiar manner more happily
+displayed than in Allegro and the Penseroso. It is impossible to
+conceive that the mechanism of language can be brought to a more
+exquisite degree of perfection. These poems differ from others, as
+attar of roses differs from ordinary rose water, the close packed
+essence from the thin diluted mixture. They are, indeed, not so much
+poems, as collections of hints, from each of which the reader is to
+make out a poem for himself. Every epithet is a text for a stanza.
+
+The Comus and the Samson Agonistes are works which, though of very
+different merit, offer some marked points of resemblance. Both are
+lyric poems in the form of plays. There are, perhaps, no two kinds of
+composition so essentially dissimilar as the drama and the ode. The
+business of the dramatist is to keep himself out of sight, and to let
+nothing appear but his characters. As soon as he attracts notice to his
+personal feelings, the illusion is broken. The effect is as unpleasant
+as that which is produced on the stage by the voice of a prompter or
+the entrance of a scene-shifter. Hence it was, that the tragedies of
+Byron were his least successful performances. They resemble those
+pasteboard pictures invented by the friend of children, Mr. Newbury,
+in which a single movable head goes round twenty different bodies, so
+that the same face looks out upon us successively, from the uniform of
+a hussar, the furs of a judge, and the rags of a beggar. In all the
+characters, patriots and tyrants, haters and lovers, the frown and
+sneer of Harold were discernible in an instant. But this species of
+egotism, though fatal to the drama, is the inspiration of the ode. It
+is the part of the lyric poet to abandon himself, without reserve, to
+his own emotion.
+
+Between these hostile elements many great men have endeavoured to
+effect an amalgamation, but never with complete success. The Greek
+drama, on the model of which the Samson was written, sprang from the
+Ode. The dialogue was ingrafted on the chorus, and naturally partook of
+its character. The genius of the greatest of the Athenian dramatists
+coöperated with the circumstances under which tragedy made its first
+appearance. Æschylus was, head and heart, a lyric poet. In his time,
+the Greeks had far more intercourse with the East than in the days
+of Homer; and they had not yet acquired that immense superiority in
+war, in science, and in the arts, which, in the following generation,
+led them to treat the Asiatics with contempt. From the narrative of
+Herodotus it should seem that they still looked up, with the disciples,
+to Egypt and Assyria. At this period, accordingly, it was natural
+that the literature of Greece should be tinctured with the Oriental
+style. And that style, we think, is discernible in the works of Pindar
+and Æschylus. The latter often reminds us of the Hebrew writers. The
+book of Job, indeed, in conduct and diction, bears a considerable
+resemblance to some of his dramas. Considered as plays, his works
+are absurd; considered as choruses, they are above all praise. If,
+for instance, we examine the address of Clytemnestra to Agamemnon on
+his return, or the description of the seven Argive chiefs, by the
+principles of dramatic writing, we shall instantly condemn them as
+monstrous. But if we forget the characters, and think only of the
+poetry, we shall admit that it has never been surpassed in energy
+and magnificence. Sophocles made the Greek drama as dramatic as was
+consistent with its original form. His portraits of men have a sort
+of similarity; but it is the similarity not of a painting, but of a
+bas-relief. It suggests a resemblance; but it does not produce an
+illusion. Euripides attempted to carry the reform further. But it
+was a task far beyond his powers, perhaps beyond any powers. Instead
+of correcting what was bad, he destroyed what was excellent. He
+substituted crutches for stilts, bad sermons for good odes.
+
+Milton, it is well known, admired Euripides highly, much more highly
+than, in our opinion, Euripides deserved. Indeed the caresses which
+this partiality leads our countryman to bestow on "sad Electra's
+poet" sometimes remind us of the beautiful Queen of Fairy-land kissing
+the long ears of Bottom. At all events, there can be no doubt that
+this veneration for the Athenian, whether just or not, was injurious
+to the Samson Agonistes. Had Milton taken Æschylus for his model, he
+would have given himself up to the lyric inspiration, and poured out
+profusely all the treasures of his mind, without bestowing a thought
+on those dramatic proprieties which the nature of the work rendered it
+impossible to preserve. In the attempt to reconcile things in their
+own nature inconsistent, he has failed, as every one else must have
+failed. We cannot identify ourselves with the characters, as in a
+good play. We cannot identify ourselves with the poet, as in a good
+ode. The conflicting ingredients, like an acid and an alkali mixed,
+neutralise each other. We are by no means insensible to the merits of
+this celebrated piece, to the severe dignity of the style, the graceful
+and pathetic solemnity of the opening speech, or the wild and barbaric
+melody which gives so striking an effect to the choral passages. But
+we think it, we confess, the least successful effort of the genius of
+Milton.
+
+The Comus is framed on the model of the Italian Masque, as the Samson
+is framed on the model of the Greek Tragedy. It is certainly the
+noblest performance of the kind which exists in any language. It is as
+far superior to the Faithful Shepherdess, as the Faithful Shepherdess
+is to the Aminta, or the Aminta to the Pastor Fido. It was well for
+Milton that he had here no Euripides to mislead him. He understood and
+loved the literature of modern Italy. But he did not feel for it the
+same veneration which he entertained for the remains of Athenian and
+Roman poetry, consecrated by so many lofty and endearing recollections.
+The faults, moreover, of his Italian predecessors were of a kind to
+which his mind had a deadly antipathy. He could stoop to a plain style,
+sometimes even to a bald style; but false brilliancy was his utter
+aversion. His muse had no objection to a russet attire; but she turned
+with disgust from the finery of Guarini, as tawdry and as paltry as the
+rags of a chimney-sweeper on May-day. Whatever ornaments she wears
+are of massive gold, not only dazzling to the sight, but capable of
+standing the severest test of the crucible.
+
+Milton attended in the Comus to the distinction which he afterwards
+neglected in the Samson. He made his Masque what it ought to be,
+essentially lyrical, and dramatic only in semblance. He has not
+attempted a fruitless struggle against a defect inherent in the nature
+of that species of composition; and he has therefore succeeded,
+wherever success was not impossible. The speeches must be read as
+majestic soliloquies; and he who so reads them will be enraptured with
+their eloquence, their sublimity, and their music. The interruptions of
+the dialogue, however, impose a constraint upon the writer, and break
+the illusion of the reader. The finest passages are those which are
+lyric in form as well as in spirit. "I should much commend," says the
+excellent Sir Henry Wotten in a letter to Milton, "the tragical part
+if the lyrical did not ravish me with a certain Dorique delicacy in
+your songs and odes, whereunto, I must plainly confess to you, I have
+seen yet nothing parallel in our language." The criticism was just. It
+is when Milton escapes from the shackles of the dialogue, when he is
+discharged from the labour of uniting two incongruous styles, when he
+is at liberty to indulge his choral raptures without reserve, that he
+rises even above himself. Then, like his own good Genius bursting from
+the earthly form and weeds of Thyrsis, he stands forth in celestial
+freedom and beauty; he seems to cry exultingly,
+
+      "Now my task is smoothly done,
+      I can fly or I can run,"
+
+to skim the earth, to soar above the clouds, to bathe in the Elysian
+dew of the rainbow, and to inhale the balmy smells of nard and cassia,
+which the musky winds of the zephyr scatter through the cedared alleys
+of the Hesperides.
+
+
+
+
+                              CHAPTER IV
+
+
+There are several of the minor poems of Milton on which we would
+willingly make a few remarks. Still more willingly would we enter into
+a detailed examination of that admirable poem, the Paradise Regained,
+which, strangely enough, is scarcely ever mentioned except as an
+instance of the blindness of the parental affection which men of
+letters bear toward the offspring of their intellects. That Milton was
+mistaken in preferring this work, excellent as it is, to the Paradise
+Lost, we readily admit. But we are sure that the superiority of the
+Paradise Lost to the Paradise Regained is not more decided than the
+superiority of the Paradise Regained to every poem which has since made
+its appearance. Our limits, however, prevent us from discussing the
+point at length. We hasten on to that extraordinary production which
+the general suffrage of critics has placed in the highest class of
+human compositions.
+
+The only poem of modern times which can be compared with the Paradise
+Lost is the Divine Comedy. The subject of Milton, in some points,
+resembled that of Dante; but he has treated it in a widely different
+manner. We cannot, we think, better illustrate our opinion respecting
+our own great poet, than by contrasting him with the father of Tuscan
+literature.
+
+The poetry of Milton differs from that of Dante, as the hieroglyphics
+of Egypt differed from the picture-writing of Mexico. The images which
+Dante employs speak for themselves; they stand simply for what they
+are. Those of Milton have a signification which is often discernible
+only to the initiated. Their value depends less on what they directly
+represent than on what they remotely suggest. However strange, however
+grotesque, may be the appearance which Dante undertakes to describe,
+he never shrinks from describing it. He gives us the shape, the colour,
+the sound, the smell, the taste; he counts the numbers; he measures the
+size. His similes are the illustrations of a traveller. Unlike those of
+other poets, and especially of Milton, they are introduced in a plain,
+businesslike manner; not for the sake of any beauty in the objects
+from which they are drawn; not for the sake of any ornament which they
+may impart to the poem; but simply in order to make the meaning of
+the writer as clear to the reader as it is to himself. The ruins of
+the precipice which led from the sixth to the seventh circle of hell
+were like those of the rock which fell into the Adige on the south of
+Trent. The cataract of Phlegethon was like that of Aqua Cheta at the
+monastery of St. Benedict. The place where the heretics were confined
+in burning tombs resembled the vast cemetery of Arles.
+
+Now let us compare with the exact details of Dante the dim intimations
+of Milton. We will cite a few examples. The English poet has never
+thought of taking the measure of Satan. He gives us merely a vague
+idea of vast bulk. In one passage the fiend lies stretched out huge
+in length, floating many a rood, equal in size to the earth-born
+enemies of Jove, or to the sea-monster which the mariner mistakes for
+an island. When he addresses himself to battle against the guardian
+angels, he stands like Teneriffe or Atlas: his stature reaches the
+sky. Contrast with these descriptions the lines in which Dante has
+described the gigantic spectre of Nimrod. "His face seemed to me as
+long and as broad as the ball of St. Peter's at Rome; and his other
+limbs were in proportion; so that the bank, which concealed him from
+the waist downwards, nevertheless showed so much of him, that three
+tall Germans would in vain have attempted to reach to his hair." We are
+sensible that we do no justice to the admirable style of the Florentine
+poet. But Mr. Cary's translation is not at hand; and our version,
+however rude, is sufficient to illustrate our meaning.
+
+Once more, compare the lazar-house in the eleventh book of the Paradise
+Lost with the last ward of Malebolge in Dante. Milton avoids the
+loathsome details, and takes refuge in indistinct but solemn and
+tremendous imagery. Despair hurrying from couch to couch to mock the
+wretches with his attendance, Death shaking his dart over them, but, in
+spite of supplications, delaying to strike. What says Dante? "There was
+such a moan there as there would be if all the sick who, between July
+and September, are in the hospitals of Valdichiana, and of the Tuscan
+swamps, and of Sardinia, were in one pit together; and such a stench
+was issuing forth as is wont to issue from decayed limbs."
+
+We will not take upon ourselves the invidious office of settling
+precedency between two such writers. Each in his own department is
+incomparable; and each, we may remark, has wisely, or fortunately,
+taken a subject adapted to exhibit his peculiar talent to the
+greatest advantage. The Divine Comedy is a personal narrative. Dante
+is the eye-witness and ear-witness of that which he relates. He is
+the very man who has heard the tormented spirits crying out for the
+second death, who has read the dusky characters on the portal within
+which there is no hope, who has hidden his face from the terrors of
+the Gorgon, who has fled from the hooks and the seething pitch of
+Barbariccia and Draghignazzo. His own hands have grasped the shaggy
+sides of Lucifer. His own feet have climbed the mountain of expiation.
+His own brow has been marked by the purifying angel. The reader would
+throw aside such a tale in incredulous disgust, unless it were told
+with the strongest air of veracity, with a sobriety even in its
+horrors, with the greatest precision and multiplicity in its details.
+The narrative of Milton in this respect differs from that of Dante,
+as the adventures of Amadis differ from those of Gulliver. The author
+of Amadis would have made his book ridiculous if he had introduced
+those minute particulars which give such a charm to the work of Swift,
+the nautical observations, the affected delicacy about names, the
+official documents transcribed at full length, and all the unmeaning
+gossip and scandal of the court, springing out of nothing, and tending
+to nothing. We are not shocked at being told that a man who lived,
+nobody knows when, saw many very strange sights, and we can easily
+abandon ourselves to the illusion of the romance. But when Lemuel
+Gulliver, surgeon, resident at Rotherhithe, tells us of pygmies and
+giants, dying islands, and philosophising horses, nothing but such
+circumstantial touches could produce for a single moment a deception on
+the imagination.
+
+Of all the poets who have introduced into their works the agency
+of supernatural beings, Milton has succeeded best. Here Dante
+decidedly yields to him: and as this is a point on which many rash
+and ill-considered judgments have been pronounced, we feel inclined
+to dwell on it a little longer. The most fatal error which a poet
+can possibly commit, in the management of his machinery, is that of
+attempting to philosophise too much. Milton has been often censured
+for ascribing to spirits many functions of which spirits must be
+incapable. But these objections, though sanctioned by eminent names,
+originate, we venture to say, in profound ignorance of the art of
+poetry.
+
+What is spirit? What are our own minds, the portion of spirit with
+which we are best acquainted? We observe certain phenomena. We cannot
+explain them into material causes. We therefore infer that there exists
+something which is not material. But of this something we have no idea.
+We can define it only by negatives. We can reason about it only by
+symbols. We use the word: but we have no image of the thing; and the
+business of poetry is with images, and not with words. The poet uses
+words indeed; but they are merely the instruments of his art, not its
+objects. They are the materials which he is to dispose in such a manner
+as to present a picture to the mental eye. And if they are not so
+disposed, they are no more entitled to be called poetry than a bale of
+canvas and a box of colours to be called a painting.
+
+Logicians may reason about abstractions. But the great mass of men
+must have images. The strong tendency of the multitude in all ages
+and nations to idolatry can be explained on no other principle. The
+first inhabitants of Greece, there is reason to believe, worshipped
+one invisible Deity. But the necessity of having something more
+definite to adore produced, in a few centuries, the innumerable
+crowd of gods and goddesses. In like manner the ancient Persians
+thought it impious to exhibit the Creator under a human form. Yet even
+these transferred to the Sun the worship which, in speculation, they
+considered due only to the Supreme Mind. The history of the Jews is
+the record of a continued struggle between pure Theism, supported by
+the most terrible sanctions, and the strangely fascinating desire of
+having some visible and tangible object of adoration. Perhaps none of
+the secondary causes which Gibbon has assigned for the rapidity with
+which Christianity spread over the world, while Judaism scarcely ever
+acquired a proselyte, operated more powerfully than this feeling. God,
+the uncreated, the incomprehensible, the invisible, attracted few
+worshippers. A philosopher might admire so noble a conception: but
+the crowd turned away in disgust from words which presented no image
+to their minds. It was before Deity embodied in a human form, walking
+among men, partaking of their infirmities, leaning on their bosoms,
+weeping over their graves, slumbering in the manger, bleeding on the
+cross, that the prejudices of the Synagogue, and the doubts of the
+Academy, and the pride of the portico, and the fasces of the Lictor,
+and the swords of thirty legions, were humbled in the dust. Soon after
+Christianity had achieved its triumph, the principle which had assisted
+it began to corrupt it. It became a new Paganism. Patron saints
+assumed the offices of household gods. St. George took the place of
+Mars. St. Elmo consoled the mariner for the loss of Castor and Pollux.
+The Virgin Mother and Cecilia succeeded to Venus and the Muses. The
+fascination of sex and loveliness was again joined to that of celestial
+dignity; and the homage of chivalry was blended with that of religion.
+Reformers have often made a stand against these feelings; but never
+with more than apparent and partial success. The men who demolished the
+images in cathedrals have not always been able to demolish those which
+were enshrined in their minds. It would not be difficult to show that
+in politics the same rule holds good. Doctrines, we are afraid, must
+generally be embodied before they can excite a strong public feeling.
+The multitude is more easily interested for the most unmeaning badge,
+or the most insignificant name, than for the most important principle.
+
+From these considerations, we infer that no poet, who should affect
+that metaphysical accuracy for the want of which Milton has been
+blamed, would escape a disgraceful failure. Still, however, there
+was another extreme, which, though far less dangerous, was also to
+be avoided. The imaginations of men are in a great measure under the
+control of their opinions. The most exquisite art of poetical colouring
+can produce no illusion, when it is employed to represent that which
+is at once perceived to be incongruous and absurd. Milton wrote in
+an age of philosophers and theologians. It was necessary, therefore,
+for him to abstain from giving such a shock to their understandings
+as might break the charm which it was his object to throw over their
+imaginations. This is the real explanation of the indistinctness and
+inconsistency with which he has often been reproached. Doctor Johnson
+acknowledges that it was absolutely necessary that the spirit should
+be clothed with material forms. "But," says he, "the poet should have
+secured the consistency of his system by keeping immateriality out of
+sight, and seducing the reader to drop it from his thoughts." This is
+easily said; but what if Milton could not seduce his readers to drop
+immateriality from their thoughts? What if the contrary opinion had
+taken so fully possession of the minds of men as to leave no room even
+for the half belief which poetry requires? Such we suspect to have
+been the case. It was impossible for the poet to adopt altogether the
+material or the immaterial system. He therefore took his stand on the
+debatable ground. He left the whole in ambiguity. He has, doubtless,
+by so doing, laid himself open to the charge of inconsistency. But,
+though philosophically in the wrong, we cannot but believe that he
+was poetically in the right. This task, which almost any other writer
+would have found impracticable, was easy to him. The peculiar art
+which he possessed of communicating his meaning circuitously through
+a long succession of associated ideas, and of intimating more than he
+expressed, enabled him to disguise those incongruities which he could
+not avoid.
+
+Poetry which relates to the beings of another world ought to be at
+once mysterious and picturesque. That of Milton is so. That of Dante
+is picturesque indeed beyond any that was ever written. Its effect
+approaches to that produced by the pencil or the chisel. But it is
+picturesque to the exclusion of all mystery. This is a fault on
+the right side, a fault inseparable from the plan of Dante's poem,
+which, as we have already observed, rendered the utmost accuracy of
+description necessary. Still it is a fault. The supernatural agents
+excite an interest; but it is not the interest which is proper to
+supernatural agents. We feel that we could talk to the ghosts and
+demons without any emotion of unearthly awe. We could, like Don Juan,
+ask them to supper, and eat heartily in their company. Dante's angels
+are good men with wings. His devils are spiteful ugly executioners.
+His dead men are merely living men in strange situations. The scene
+which passes between the poet and Farinata is justly celebrated. Still,
+Farinata in the burning tomb is exactly what Farinata would have
+been at an _auto da fe_. Nothing can be more touching than the first
+interview of Dante and Beatrice. Yet what is it, but a lovely woman
+chiding, with sweet austere composure, the lover for whose affection
+she is grateful, but whose vices she reprobates? The feelings which
+give the passage its charm would suit the streets of Florence as well
+as the summit of the Mount of Purgatory.
+
+The spirits of Milton are unlike those of almost all other writers.
+His fiends, in particular, are wonderful creations. They are not
+metaphysical abstractions. They are not wicked men. They are not ugly
+beasts. They have no horns, no tails, none of the fee-faw-fum of Tasso
+and Klopstock. They have just enough in common with human nature to be
+intelligible to human beings. Their characters are, like their forms,
+marked by a certain dim resemblance to those of men, but exaggerated to
+gigantic dimensions, and veiled in mysterious gloom.
+
+Perhaps the gods and demons of Æschylus may best bear a comparison
+with the angels and devils of Milton. The style of the Athenian had,
+as we have remarked, something of the Oriental character; and the
+same peculiarity may be traced in his mythology. It has nothing of
+the amenity and elegance which we generally find in the superstitions
+of Greece. All is rugged, barbaric, and colossal. The legends of
+Æschylus seem to harmonise less with the fragrant groves and graceful
+porticoes in which his countrymen paid their vows to the God of Light
+and Goddess of Desire, than with those huge and grotesque labyrinths
+of eternal granite in which Egypt enshrined her mystic Osiris, or
+in which Hindostan still bows down to her seven-headed idols. His
+favourite gods are those of the elder generation, the sons of heaven
+and earth, compared with whom Jupiter himself was a stripling and an
+upstart, the gigantic Titans, and the inexorable Furies. Foremost
+among his creations of this class stands Prometheus, half fiend,
+half redeemer, the friend of man, the sullen and implacable enemy of
+heaven. Prometheus bears undoubtedly a considerable resemblance to
+the Satan of Milton. In both we find the same impatience of control,
+the same ferocity, the same unconquerable pride. In both characters
+also are mingled, though in very different proportions, some kind and
+generous feelings. Prometheus, however, is hardly superhuman enough.
+He talks too much of his chains and his uneasy posture: he is rather
+too much depressed and agitated. His resolution seems to depend on the
+knowledge which he possesses that he holds the fate of his torturer
+in his hands, and that the hour of his release will surely come. But
+Satan is a creature of another sphere. The might of his intellectual
+nature is victorious over the extremity of pain. Amidst agonies which
+cannot be conceived without horror, he deliberates, resolves, and even
+exults. Against the sword of Michael, against the thunder of Jehovah,
+against the flaming lake, and the marl burning with solid fire, against
+the prospect of an eternity of unintermitted misery, his spirit bears
+up unbroken, resting on its own innate energies, requiring no support
+from anything external, nor even from hope itself.
+
+To return for a moment to the parallel which we have been attempting to
+draw between Milton and Dante, we would add that the poetry of these
+great men has in a considerable degree taken its character from their
+moral qualities. They are not egotists. They rarely obtrude their
+idiosyncrasies on their readers. They have nothing in common with those
+modern beggars for fame, who extort a pittance from the compassion
+of the inexperienced by exposing the nakedness and sores of their
+minds. Yet it would be difficult to name two writers whose works have
+been more completely, though undesignedly, coloured by their personal
+feelings.
+
+The character of Milton was peculiarly distinguished by loftiness
+of spirit; that of Dante by intensity of feeling. In every line of
+the Divine Comedy we discern the asperity which is produced by pride
+struggling with misery. There is perhaps no work in the world so deeply
+and uniformly sorrowful. The melancholy of Dante was no fantastic
+caprice. It was not, as far as at this distance of time can be judged,
+the effect of external circumstances. It was from within. Neither
+love nor glory, neither the conflicts of earth nor the hope of heaven
+could dispel it. It turned every consolation and every pleasure into
+its own nature. It resembled that noxious Sardinian soil of which the
+intense bitterness is said to have been perceptible even in its honey.
+His mind was, in the noble language of the Hebrew poet, "a land of
+darkness, as darkness itself, and where the light was as darkness." The
+gloom of his characters discolours all the passions of men, and all
+the face of nature, and tinges with its own livid hue the flowers of
+Paradise and the glories of the eternal throne. All the portraits of
+him are singularly characteristic. No person can look on the features,
+noble even to ruggedness, the dark furrows of the cheek, the haggard
+and woful stare of the eye, the sullen and contemptuous curve of the
+lip, and doubt that they belong to a man too proud and too sensitive to
+be happy.
+
+Milton was, like Dante, a statesman and a lover; and, like Dante, he
+had been unfortunate in ambition and in love. He had survived his
+health and his sight, the comforts of his home, and the prosperity of
+his party. Of the great men by whom he had been distinguished at his
+entrance into life, some had been taken away from the evil to come;
+some had carried into foreign climates their unconquerable hatred of
+oppression; some were pining in dungeons; and some had poured forth
+their blood on scaffolds. Venal and licentious scribblers, with just
+sufficient talent to clothe the thoughts of a pandar in the style of
+a bellman, were now the favourite writers of the Sovereign and of the
+public. It was a loathsome herd, which could be compared to nothing
+so fitly as to the rabble of Comus, grotesque monsters, half bestial,
+half human, dropping with wine, bloated with gluttony, and reeling
+in obscene dances. Amidst these that fair Muse was placed, like the
+chaste lady of the Masque, lofty, spotless, and serene, to be chattered
+at, and pointed at, and grinned at, by the whole rout of Satyrs and
+Goblins. If ever despondency and asperity could be excused in any man,
+they might have been excused in Milton. But the strength of his mind
+overcame every calamity. Neither blindness, nor gout, nor age, nor
+penury, nor domestic afflictions, nor political disappointments, nor
+abuse, nor proscription, nor neglect, had power to disturb his sedate
+and majestic patience. His spirits do not seem to have been high,
+but they were singularly equable. His temper was serious, perhaps
+stern; but it was a temper which no sufferings could render sullen or
+fretful. Such as it was when, on the eve of great events, he returned
+from his travels, in the prime of health and manly beauty, loaded
+with literary distinctions, and glowing with patriotic hopes, such it
+continued to be when, after having experienced every calamity which is
+incident to our nature, old, poor, sightless, and disgraced, he retired
+to his hovel to die.
+
+Hence it was that, though he wrote the Paradise Lost at a time of life
+when images of beauty and tenderness are in general beginning to fade,
+even from those minds in which they have not been effaced by anxiety
+and disappointment, he adorned it with all that is most lovely and
+delightful in the physical and in the moral world. Neither Theocritus
+nor Ariosto had a finer or a more healthful sense of the pleasantness
+of external objects, or loved better to luxuriate amidst sunbeams and
+flowers, the songs of nightingales, the juice of summer fruits, and
+the coolness of shady fountains. His conception of love unites all
+the voluptuousness of the Oriental harem, and all the gallantry of
+the chivalric tournament, with all the pure and quiet affection of
+an English fireside. His poetry reminds us of the miracles of Alpine
+scenery. Nooks and dells, beautiful as fairy-land, are embosomed in
+its most rugged and gigantic elevations. The roses and myrtles bloom
+unchilled on the verge of the avalanche.
+
+Traces, indeed, of the peculiar character of Milton may be found
+in all his works; but it is most strongly displayed in the Sonnets.
+Those remarkable poems have been undervalued by critics who have not
+understood their nature. They have no epigrammatic point. There is
+none of the ingenuity of Filicaja in the thought, none of the hard and
+brilliant enamel of Petrarch in the style. They are simple but majestic
+records of the feelings of the poet; as little tricked out for the
+public eye as his diary would have been. A victory, an expected attack
+upon the city, a momentary fit of depression or exultation, a jest
+thrown out against one of his books, a dream which for a short time
+restored to him that beautiful face over which the grave had closed for
+ever, led him to musings, which, without effort, shaped themselves
+into verse. The unity of sentiment and severity of style which
+characterise these little pieces remind us of the Greek Anthology, or
+perhaps still more of the Collects of the English Liturgy. The noble
+poem on the Massacres of Piedmont is strictly a Collect in verse.
+
+The Sonnets are more or less striking according as the occasions which
+gave birth to them are more or less interesting. But they are, almost
+without exception, dignified by a sobriety and greatness of mind to
+which we know not where to look for a parallel. It would, indeed, be
+scarcely safe to draw any decided inferences as to the character of
+a writer from passages directly egotistical. But the qualities which
+we have ascribed to Milton, though perhaps most strongly marked in
+those parts of his works which treat of his personal feelings, are
+distinguishable in every page, and impart to all his writings, prose
+and poetry, English, Latin, and Italian, a strong family likeness.
+
+
+
+
+                               CHAPTER V
+
+
+His public conduct was such as was to be expected from a man of a
+spirit so high and of an intellect so powerful. He lived at one of
+the most memorable eras in the history of mankind, at the very crisis
+of the great conflict between Oromasdes and Arimanes, liberty and
+despotism, reason and prejudice. That great battle was fought for no
+single generation, for no single land. The destinies of the human
+race were staked on the same cast with the freedom of the English
+people. Then were first proclaimed those mighty principles which have
+since worked their way into the depths of the American forests, which
+have roused Greece from the slavery and degradation of two thousand
+years, and which, from one end of Europe to the other, have kindled an
+unquenchable fire in the hearts of the oppressed, and loosed the knees
+of the oppressors with an unwonted fear.
+
+Of those principles, then struggling for their infant existence,
+Milton was the most devoted and eloquent literary champion. We need
+not say how much we admire his public conduct. But we cannot disguise
+from ourselves that a large portion of his countrymen still think it
+unjustifiable. The civil war, indeed, has been more discussed, and is
+less understood, than any event in English history. The friends of
+liberty laboured under the disadvantage of which the lion in the fable
+complained so bitterly. Though they were the conquerors, their enemies
+were the painters. As a body the Roundheads had done their utmost to
+decry and ruin literature; and literature was even with them, as, in
+the long run, it always is with its enemies. The best book on their
+side of the question is the charming narrative of Mrs. Hutchinson.
+May's History of the Parliament is good; but it breaks off at the
+most interesting crisis of the struggle. The performance of Ludlow is
+foolish and violent; and most of the later writers who have espoused
+the same cause, Oldmixon for instance, and Catherine Macaulay, have, to
+say the least, been more distinguished by zeal than either by candour
+or by skill. On the other side are the most authoritative and the most
+popular historical works in our language, that of Clarendon, and that
+of Hume. The former is not only ably written and full of valuable
+information, but has also an air of dignity and sincerity which makes
+even the prejudices and errors with which it abounds respectable. Hume,
+from whose fascinating narrative the great mass of the reading public
+are still contented to take their opinions, hated religion so much that
+he hated liberty for having been allied with religion, and has pleaded
+the cause of tyranny with the dexterity of an advocate while affecting
+the impartiality of a judge.
+
+The public conduct of Milton must be approved or condemned according
+as the resistance of the people to Charles the First shall appear to
+be justifiable or criminal. We shall therefore make no apology for
+dedicating a few pages to the discussion of that interesting and most
+important question. We shall not argue it on general grounds. We shall
+not recur to those primary principles from which the claim of any
+government to the obedience of its subjects is to be deduced. We are
+entitled to that vantage-ground; but we will relinquish it. We are,
+on this point, so confident of superiority, that we are not unwilling
+to imitate the ostentatious generosity of those ancient knights, who
+vowed to joust without helmet or shield against all enemies, and to
+give their antagonists the advantage of sun and wind. We will take
+the naked constitutional question. We confidently affirm, that every
+reason which can be urged in favour of the Revolution of 1688 may be
+urged with at least equal force in favour of what is called the Great
+Rebellion.
+
+In one respect only, we think, can the warmest admirers of Charles
+venture to say that he was a better sovereign than his son. He was
+not, in name and profession, a Papist; we say in name and profession,
+because both Charles himself and his creature Laud, while they
+abjured the innocent badges of Popery, retained all its worst vices,
+a complete subjection of reason to authority, a weak preference of
+form to substance, a childish passion for mummeries, an idolatrous
+veneration for the priestly character, and, above all, a merciless
+intolerance. This, however, we waive. We will concede that Charles was
+a good Protestant; but we say that his Protestantism does not make the
+slightest distinction between his case and that of James.
+
+The principles of the Revolution have often been grossly
+misrepresented, and never more than in the course of the present year.
+There is a certain class of men who, while they profess to hold in
+reverence the great names and great actions of former times, never
+look at them for any other purpose than in order to find in them some
+excuse for existing abuses. In every venerable precedent they pass by
+what is essential, and take only what is accidental: they keep out of
+sight what is beneficial, and hold up to public imitation all that
+is defective. If, in any part of any great example, there be anything
+unsound, these flesh-flies detect it with an unerring instinct, and
+dart upon it with a ravenous delight. If some good end has been
+attained in spite of them, they feel, with their prototype, that
+
+      "Their labour must be to pervert that end,
+      And out of good still to find means of evil."
+
+To the blessings which England has derived from the Revolution these
+people are utterly insensible. The expulsion of a tyrant, the solemn
+recognition of popular rights, liberty, security, toleration, all go
+for nothing with them. One sect there was, which, from unfortunate
+temporary causes, it was thought necessary to keep under close
+restraint. One part of the empire there was so unhappily circumstanced,
+that at that time its misery was necessary to our happiness, and its
+slavery to our freedom. These are the parts of the Revolution which
+the politicians of whom we speak love to contemplate, and which seem
+to them not indeed to vindicate, but in some degree to palliate, the
+good which it has produced. Talk to them of Naples, of Spain, or of
+South America. They stand forth zealots for the doctrine of Divine
+Right which has now come back to us, like a thief from transportation,
+under the _alias_ of Legitimacy. But mention the miseries of Ireland.
+Then William is a hero. Then Somers and Shrewsbury are great men. Then
+the Revolution is a glorious era. The very same persons who, in this
+country, never omit an opportunity of reviving every wretched Jacobite
+slander respecting the Whigs of that period, have no sooner crossed St.
+George's Channel than they begin to fill their bumpers to the glorious
+and immortal memory. They may truly boast that they look not at men,
+but at measures. So that evil be done, they care not who does it; the
+arbitrary Charles, or the liberal William, Ferdinand the Catholic, or
+Frederic the Protestant. On such occasions their deadliest opponents
+may reckon upon their candid construction. The bold assertions of
+these people have of late impressed a large portion of the public
+with an opinion that James the Second was expelled simply because he
+was a Catholic, and that the Revolution was essentially a Protestant
+Revolution.
+
+But this certainly was not the case; nor can any person who has
+acquired more knowledge of the history of those times than is to be
+found in Goldsmith's Abridgment believe that, if James had held his own
+religious opinions without wishing to make proselytes, or if, wishing
+even to make proselytes, he had contented himself with exerting only
+his constitutional influence for that purpose, the Prince of Orange
+would ever have been invited over. Our ancestors, we suppose, knew
+their own meaning; and, if we may believe them, their hostility was
+primarily not to popery, but to tyranny. They did not drive out a
+tyrant because he was a Catholic; but they excluded Catholics from
+the crown, because they thought them likely to be tyrants. The ground
+on which they, in their famous resolution, declared the throne vacant,
+was this, "that James had broken the fundamental laws of the kingdom."
+Every man, therefore, who approves of the Revolution of 1688 must
+hold that the breach of fundamental laws on the part of the sovereign
+justifies resistance. The question, then, is this: Had Charles the
+First broken the fundamental laws of England?
+
+No person can answer in the negative, unless he refuses credit, not
+merely to all the accusations brought against Charles by his opponents,
+but to the narratives of the warmest Royalists, and to the confessions
+of the king himself. If there be any truth in any historian of any
+party who has related the events of that reign, the conduct of Charles,
+from his accession to the meeting of the Long Parliament, had been a
+continued course of oppression and treachery. Let those who applaud
+the Revolution, and condemn the Rebellion mention one act of James
+the Second to which a parallel is not to be found in the history of
+his father. Let them lay their fingers on a single article in the
+Declaration of Right, presented by the two Houses to William and
+Mary, which Charles is not acknowledged to have violated. He had,
+according to the testimony of his own friends, usurped the functions
+of the legislature, raised taxes without the consent of Parliament,
+and quartered troops on the people in the most illegal and vexatious
+manner. Not a single session of Parliament had passed without some
+unconstitutional attack on the freedom of debate; the right of petition
+was grossly violated; arbitrary judgments, exorbitant fines, and
+unwarranted imprisonments were grievances of daily occurrence. If these
+things do not justify resistance, the Revolution was treason; if they
+do, the Great Rebellion was laudable.
+
+But, it is said, why not adopt milder measures? Why, after the king
+had consented to so many reforms, and renounced so many oppressive
+prerogatives, did the Parliament continue to rise in their demands at
+the risk of provoking a civil war? The ship-money had been given up.
+The Star Chamber had been abolished. Provision had been made for the
+frequent convocation and secure deliberation of Parliaments. Why not
+pursue an end confessedly good by peaceable and regular means? We recur
+again to the analogy of the Revolution. Why was James driven from the
+throne? Why was he not retained upon conditions? He too had offered to
+call a free Parliament, and to submit to its decision all the matters
+in dispute. Yet we are in the habit of praising our forefathers, who
+preferred a revolution, a disputed succession, a dynasty of strangers,
+twenty years of foreign and intestine war, a standing army, and a
+national debt, to the rule, however restricted, of a tried and proved
+tyrant. The Long Parliament acted on the same principle, and is
+entitled to the same praise. They could not trust the king. He had no
+doubt passed salutary laws; but what assurance was there that he would
+not break them? He had renounced oppressive prerogatives; but where was
+the security that he would not resume them? The nation had to deal with
+a man whom no tie could bind, a man who made and broke promises with
+equal facility, a man whose honour had been a hundred times pawned, and
+never redeemed.
+
+Here, indeed, the Long Parliament stands on still stronger ground than
+the Convention of 1688. No action of James can be compared to the
+conduct of Charles with respect to the Petition of Right. The Lords and
+Commons present him with a bill in which the constitutional limits of
+his power are marked out. He hesitates; he evades; at last he bargains
+to give his assent for five subsidies. The bill receives his solemn
+assent; the subsidies are voted; but no sooner is the tyrant relieved,
+than he returns at once to all the arbitrary measures which he had
+bound himself to abandon, and violates all the clauses of the very Act
+which he had been paid to pass.
+
+For more than ten years the people had seen the rights which were
+theirs by a double claim, by immemorial inheritance and by recent
+purchase, infringed by the perfidious king who had recognised them. At
+length, circumstances compelled Charles to summon another Parliament:
+another chance was given to our fathers: were they to throw it away
+as they had thrown away the former? Were they again to be cozened by
+_le Roi le veut_? Were they again to advance their money on pledges
+which had been forfeited over and over again? Were they to lay a second
+Petition of Right at the foot of the throne, to grant another lavish
+aid in exchange for another unmeaning ceremony, and then to take
+their departure, till, after ten years more of fraud and oppression,
+their prince should again require a supply, and again repay it with
+a perjury? They were compelled to choose whether they would trust a
+tyrant or conquer him. We think that they chose wisely and nobly.
+
+The advocates of Charles, like the advocates of other malefactors
+against whom overwhelming evidence is produced, generally decline
+all controversy about the facts, and content themselves with calling
+testimony to character. He had so many private virtues! And had James
+the Second no private virtues? Was Oliver Cromwell, his bitterest
+enemies themselves being judges, destitute of private virtues? And
+what, after all, are the virtues ascribed to Charles? A religious
+zeal, not more sincere than that of his son, and fully as weak and
+narrow-minded, and a few of the ordinary household decencies which half
+the tombstones in England claim for those who lie beneath them. A good
+father! A good husband! Ample apologies indeed for fifteen years of
+persecution, tyranny, and falsehood!
+
+We charge him with having broken his coronation oath; and we are
+told that he kept his marriage vow! We accuse him of having given up
+his people to the merciless inflictions of the most hot-headed and
+hard-hearted of prelates; and the defence is, that he took his little
+son on his knee and kissed him! We censure him for having violated the
+articles of the Petition of Right, after having, for good and valuable
+consideration, promised to observe them; and we are informed that he
+was accustomed to hear prayers at six o'clock in the morning! It is
+to such considerations as these, together with his Vandyke dress, his
+handsome face, and his peaked beard, that he owes, we verily believe,
+most of his popularity with the present generation.
+
+For ourselves, we own that we do not understand the common phrase,
+a good man, but a bad king. We can as easily conceive a good man
+and an unnatural father, or a good man and a treacherous friend. We
+cannot, in estimating the character of an individual, leave out of our
+consideration his conduct in the most important of all human relations;
+and if in that relation we find him to have been selfish, cruel, and
+deceitful, we shall take the liberty to call him a bad man, in spite of
+all his temperance at table, and all his regularity at chapel.
+
+We cannot refrain from adding a few words respecting a topic on which
+the defenders of Charles are fond of dwelling. If, they say, he
+governed his people ill, he at least governed them after the example
+of his predecessors. If he violated their privileges, it was because
+those privileges had not been accurately defined. No act of oppression
+has ever been imputed to him which has not a parallel in the annals
+of the Tudors. This point Hume has laboured, with an art which is
+as discreditable in a historical work as it would be admirable in a
+forensic address. The answer is short, clear, and decisive. Charles
+had assented to the Petition of Right. He had renounced the oppressive
+powers said to have been exercised by his predecessors, and he had
+renounced them for money. He was not entitled to set up his antiquated
+claims against his own recent release.
+
+These arguments are so obvious, that it may seem superfluous to dwell
+upon them. But those who have observed how much the events of that time
+are misrepresented and misunderstood will not blame us for stating
+the case simply. It is a case of which the simplest statement is the
+strongest.
+
+The enemies of the Parliament, indeed, rarely choose to take issue on
+the great points of the question. They content themselves with exposing
+some of the crimes and follies to which public commotions necessarily
+give birth. They bewail the unmerited fate of Strafford. They execrate
+the lawless violence of the army. They laugh at the Scriptural names
+of the preachers. Major-generals fleecing their districts; soldiers
+revelling on the spoils of a ruined peasantry; upstarts, enriched by
+the public plunder, taking possession of the hospitable firesides
+and hereditary trees of the old gentry; boys smashing the beautiful
+windows of cathedrals; Quakers riding naked through the market-place;
+Fifth-monarchy men shouting for King Jesus; agitators lecturing from
+the tops of tubs on the fate of Agag; all these, they tell us, were the
+offspring of the Great Rebellion.
+
+Be it so. We are not careful to answer in this matter. These charges,
+were they infinitely more important, would not alter our opinion of
+an event which alone has made us to differ from the slaves who crouch
+beneath despotic sceptres. Many evils, no doubt, were produced by the
+civil war. They were the price of our liberty. Has the acquisition
+been worth the sacrifice? It is the nature of the Devil of tyranny to
+tear and rend the body which he leaves. Are the miseries of continued
+possession less horrible than the struggles of the tremendous exorcism?
+
+If it were possible that a people brought up under an intolerant and
+arbitrary system could subvert that system without acts of cruelty
+and folly, half the objections to despotic power would be removed. We
+should, in that case, be compelled to acknowledge that it at least
+produces no pernicious effects on the intellectual and moral character
+of a nation. We deplore the outrages which accompany revolutions.
+But the more violent the outrages, the more assured we feel that a
+revolution was necessary. The violence of those outrages will always
+be proportioned to the ferocity and ignorance of the people; and the
+ferocity and ignorance of the people will be proportioned to the
+oppression and degradation under which they have been accustomed to
+live. Thus it was in our civil war. The heads of the church and state
+reaped only that which they had sown. The government had prohibited
+free discussion: it had done its best to keep the people unacquainted
+with their duties and their rights. The retribution was just and
+natural. If our rulers suffered from popular ignorance, it was because
+they had themselves taken away the key of knowledge. If they were
+assailed with blind fury, it was because they had exacted an equally
+blind submission.
+
+It is the character of such revolutions that we always see the worst
+of them at first. Till men have been some time free, they know not
+how to use their freedom. The natives of wine countries are generally
+sober. In climates where wine is a rarity intemperance abounds. A newly
+liberated people may be compared to a northern army encamped on the
+Rhine or the Xeres. It is said that, when soldiers in such a situation
+first find themselves able to indulge without restraint in such a rare
+and expensive luxury, nothing is to be seen but intoxication. Soon,
+however, plenty teaches discretion; and, after wine has been for a few
+months their daily fare, they become more temperate than they had ever
+been in their own country. In the same manner, the final and permanent
+fruits of liberty are wisdom, moderation, and mercy. Its immediate
+effects are often atrocious crimes, conflicting errors, skepticism on
+points the most clear, dogmatism on points the most mysterious. It is
+just at this crisis that its enemies love to exhibit it. They pull
+down the scaffolding from the half-finished edifice: they point to the
+flying dust, the falling bricks, the comfortless rooms, the frightful
+irregularity of the whole appearance; and then ask in scorn where
+the promised splendour and comfort is to be found. If such miserable
+sophisms were to prevail there would never be a good house or a good
+government in the world.
+
+Ariosto tells a pretty story of a fairy, who, by some mysterious law of
+her nature, was condemned to appear at certain seasons in the form of
+a foul and poisonous snake. Those who injured her during the period of
+her disguise were for ever excluded from participation in the blessings
+which she bestowed. But to those who, in spite of her loathsome
+aspect, pitied and protected her, she afterward revealed herself in
+the beautiful and celestial form which was natural to her, accompanied
+their steps, granted all their wishes, filled their houses with wealth,
+made them happy in love and victorious in war. Such a spirit is
+Liberty. At times she takes the form of a hateful reptile. She grovels,
+she hisses, she stings. But woe to those who in disgust shall venture
+to crush her! And happy are those who, having dared to receive her in
+her degraded and frightful shape, shall at length be rewarded by her
+in the time of her beauty and her glory!
+
+There is only one cure for the evils which newly acquired freedom
+produces; and that cure is freedom. When a prisoner first leaves his
+cell he cannot bear the light of day: he is unable to discriminate
+colours, or recognise faces. But the remedy is not to remand him into
+his dungeon, but to accustom him to the rays of the sun. The blaze
+of truth and liberty may at first dazzle and bewilder nations which
+have become half blind in the house of bondage. But let them gaze on,
+and they will soon be able to bear it. In a few years men learn to
+reason. The extreme violence of opinions subsides. Hostile theories
+correct each other. The scattered elements of truth cease to contend,
+and begin to coalesce. And at length a system of justice and order is
+educed out of the chaos.
+
+Many politicians of our time are in the habit of laying it down as a
+self-evident proposition, that no people ought to be free till they
+are fit to use their freedom. The maxim is worthy of the fool in the
+old story who resolved not to go into the water till he had learnt to
+swim. If men are to wait for liberty till they become wise and good in
+slavery, they may indeed wait for ever.
+
+Therefore it is that we decidedly approve of the conduct of Milton and
+the other wise and good men who, in spite of much that was ridiculous
+and hateful in the conduct of their associates, stood firmly by the
+cause of Public Liberty. We are not aware that the poet has been
+charged with personal participation in any of the blamable excesses of
+that time. The favourite topic of his enemies is the line of conduct
+which he pursued with regard to the execution of the king. Of that
+celebrated proceeding we by no means approve. Still we must say, in
+justice to the many eminent persons who concurred in it, and in justice
+more particularly to the eminent person who defended it, that nothing
+can be more absurd than the imputations which, for the last hundred
+and sixty years, it has been the fashion to cast upon the Regicides.
+We have, throughout, abstained from appealing to first principles.
+We will not appeal to them now. We recur again to the parallel case
+of the Revolution. What essential distinction can be drawn between
+the execution of the father and the deposition of the son? What
+constitutional maxim is there which applies to the former and not to
+the latter? The king can do no wrong. If so, James was as innocent as
+Charles could have been. The minister only ought to be responsible
+for the acts of the sovereign. If so, why not impeach Jefferies and
+retain James? The person of a king is sacred. Was the person of James
+considered sacred at the Boyne? To discharge cannon against an army
+in which a king is known to be posted is to approach pretty near to
+regicide. Charles, too, it should always be remembered, was put to
+death by men who had been exasperated by the hostilities of several
+years, and who had never been bound to him by any other tie than that
+which was common to them with all their fellow citizens. Those who
+drove James from his throne, who seduced his army, who alienated his
+friends, who first imprisoned him in his palace, and then turned him
+out of it, who broke in upon his very slumbers by imperious messages,
+who pursued him with fire and sword from one part of the empire to
+another, who hanged, drew, and quartered his adherents, and attainted
+his innocent heir, were his nephew and his two daughters. When we
+reflect on all these things, we are at a loss to conceive how the
+same persons who, on the fifth of November, thank God for wonderfully
+conducting his servant William, and for making all opposition fall
+before him until he became our king and governor, can, on the thirtieth
+of January, contrive to be afraid that the blood of the Royal Martyr
+may be visited on themselves and their children.
+
+We disapprove, we repeat, of the execution of Charles; not because the
+constitution exempts the king from responsibility, for we know that
+all such maxims, however excellent, have their exceptions; nor because
+we feel any peculiar interest in his character, for we think that his
+sentence describes him with perfect justice as "a tyrant, a traitor, a
+murderer, and a public enemy;" but because we are convinced that the
+measure was most injurious to the cause of freedom. He whom it removed
+was a captive and a hostage: his heir, to whom the allegiance of every
+Royalist was instantly transferred, was at large. The Presbyterians
+could never have been perfectly reconciled to the father: they had no
+such rooted enmity to the son. The great body of the people, also,
+contemplated that proceeding with feelings which, however unreasonable,
+no government could safely venture to outrage.
+
+But though we think the conduct of the Regicides blamable, that of
+Milton appears to us in a very different light. The deed was done.
+It could not be undone. The evil was incurred; and the object was to
+render it as small as possible. We censure the chiefs of the army for
+not yielding to the popular opinion; but we cannot censure Milton
+for wishing to change that opinion. The very feeling which would
+have restrained us from committing the act would have led us, after
+it had been committed, to defend it against the ravings of servility
+and superstition. For the sake of public liberty, we wish that the
+thing had not been done, while the people disapproved of it. But, for
+the sake of public liberty, we should also have wished the people to
+approve of it when it was done. If anything more were wanting to the
+justification of Milton, the book of Salmasius would furnish it. That
+miserable performance is now with justice considered only as a beacon
+to word-catchers, who wish to become statesmen. The celebrity of the
+man who refuted it, the "Æneæ magni dextra," gives it all its fame with
+the present generation. In that age the state of things was different.
+It was not then fully understood how vast an interval separates the
+more classical scholar from the political philosopher. Nor can it be
+doubted that a treatise which, bearing the name of so eminent a critic,
+attacked the fundamental principles of all free governments, must, if
+suffered to remain unanswered, have produced a most pernicious effect
+on the public mind.
+
+
+
+
+                              CHAPTER VI
+
+We wish to add a few words relative to another subject, on which
+the enemies of Milton delight to dwell, his conduct during the
+administration of the Protector. That an enthusiastic votary of liberty
+should accept office under a military usurper seems, no doubt, at first
+sight, extraordinary. But all the circumstances in which the country
+was then placed were extraordinary. The ambition of Oliver was of no
+vulgar kind. He never seems to have coveted despotic power. He at first
+fought sincerely and manfully for the Parliament, and never deserted
+it, till it had deserted its duty. If he dissolved it by force, it
+was not till he found that the few members who remained after so many
+deaths, secessions, and expulsions, were desirous to appropriate to
+themselves a power which they held only in trust, and to inflict upon
+England the curse of a Venetian oligarchy. But even when thus placed
+by violence at the head of affairs, he did not assume unlimited power.
+He gave the country a constitution far more perfect than any which had
+at that time been known in the world. He reformed the representative
+system in a manner which has extorted praise even from Lord Clarendon.
+For himself he demanded indeed the first place in the commonwealth; but
+with powers scarcely so great as those of a Dutch stadtholder, or an
+American president. He gave the Parliament a voice in the appointment
+of ministers, and left to it the whole legislative authority, not even
+reserving to himself a veto on its enactments; and he did not require
+that the chief magistracy should be hereditary in his family. Thus far,
+we think, if the circumstances of the time and the opportunities which
+he had of aggrandising himself be fairly considered, he will not lose
+by comparison with Washington or Bolivar. Had his moderation been met
+with corresponding moderation, there is no reason to think that he
+would have overstepped the line which he had traced for himself. But
+when he found that his parliaments questioned the authority under which
+they met, and that he was in danger of being deprived of the restricted
+power which was absolutely necessary to his personal safety, then, it
+must be acknowledged, he adopted a more arbitrary policy.
+
+Yet, though we believe that the intentions of Cromwell were at first
+honest, though we believe that he was driven from the noble course
+which he had marked out for himself by the almost irresistible force
+of circumstances, though we admire, in common with all men of all
+parties, the ability and energy of his splendid administration,
+we are not pleading for arbitrary and lawless power, even in his
+hands. We know that a good constitution is infinitely better than
+the best despot. But we suspect, that at the time of which we speak
+the violence of religious and political enmities rendered a stable
+and happy settlement next to impossible. The choice lay, not between
+Cromwell and liberty, but between Cromwell and the Stuarts. That
+Milton chose well, no man can doubt who fairly compares the events of
+the protectorate with those of the thirty years which succeeded it,
+the darkest and most disgraceful in the English annals. Cromwell was
+evidently laying, though in an irregular manner, the foundations of an
+admirable system. Never before had religious liberty and the freedom
+of discussion been enjoyed in a greater degree. Never had the national
+honour been better upheld abroad, or the seat of justice better filled
+at home. And it was rarely that any opposition which stopped short of
+open rebellion provoked the resentment of the liberal and magnanimous
+usurper. The institutions which he had established, as set down in
+the Instrument of Government, and the Humble Petition and Advice,
+were excellent. His practice, it is true, too often departed from the
+theory of these institutions. But, had he lived a few years longer, it
+is probable that his institutions would have survived him, and that
+his arbitrary practice would have died with him. His power had not
+been consecrated by ancient prejudices. It was upheld only by his
+great personal qualities. Little, therefore, was to be dreaded from
+a second protector, unless he was also a second Oliver Cromwell. The
+events which followed his decease are the most complete vindication
+of those who exerted themselves to uphold his authority. His death
+dissolved the whole frame of society. The army rose against the
+Parliament, the different corps of the army against each other. Sect
+raved against sect. Party plotted against party. The Presbyterians, in
+their eagerness to be revenged on the Independents, sacrificed their
+own liberty, and deserted all their old principles. Without casting
+one glance on the past, or requiring one stipulation for the future,
+they threw down their freedom at the feet of the most frivolous and
+heartless of tyrants.
+
+Then came those days, never to be recalled without a blush, the days
+of servitude without loyalty and sensuality without love, of dwarfish
+talents and gigantic vices, the paradise of cold hearts and narrow
+minds, the golden age of the coward, the bigot, and the slave. The king
+cringed to his rival that he might trample on his people, sank into a
+viceroy of France, and pocketed, with complacent infamy, her degrading
+insults, and her more degrading gold. The caresses of harlots, and the
+jests of buffoons, regulated the policy of the state. The government
+had just ability enough to deceive, and just religion enough to
+persecute. The principles of liberty were the scoff of every grinning
+courtier, and the Anathema Maranatha of every fawning dean. In every
+high place, worship was paid to Charles and James, Belial and Moloch;
+and England propitiated those obscene and cruel idols with the blood of
+her best and bravest children. Crime succeeded to crime, and disgrace
+to disgrace, till the race accursed of God and man was a second time
+driven forth, to wander on the face of the earth, and to be a byword
+and a shaking of the head to the nations.
+
+Most of the remarks which we have hitherto made on the public character
+of Milton apply to him only as one of a large body. We shall proceed
+to notice some of the peculiarities which distinguished him from his
+contemporaries. And, for that purpose, it is necessary to take a short
+survey of the parties into which the political world was at that time
+divided. We must premise, that our observations are intended to apply
+only to those who adhered, from a sincere preference, to one or to
+the other side. In days of public commotion, every faction, like an
+Oriental army, is attended by a crowd of camp-followers, an useless
+and heartless rabble, who prowl around its line of march in the hope
+of picking up something under its protection, but desert it in the day
+of battle, and often join to exterminate it after a defeat. England,
+at the time of which we are treating, abounded with fickle and selfish
+politicians, who transferred their support to every government as it
+rose, who kissed the hand of the king in 1640, and spat in his face
+in 1649, who shouted with equal glee when Cromwell was inaugurated in
+Westminster Hall, and when he was dug up to be hanged at Tyburn, who
+dined on calves' heads, or stuck up oak-branches, as circumstances
+altered, without the slightest shame or repugnance. These we leave out
+of the account. We take our estimate of parties from those who really
+deserved to be called partisans.
+
+We would speak first of the Puritans, the most remarkable body of men,
+perhaps, which the world has ever produced. The odious and ridiculous
+parts of their character lie on the surface. He that runs may read
+them; nor have there been wanting attentive and malicious observers
+to point them out. For many years after the Restoration, they were
+the theme of unmeasured invective and derision. They were exposed to
+the utmost licentiousness of the press and of the stage, at the time
+when the press and the stage were most licentious. They were not men
+of letters; they were as a body, unpopular; they could not defend
+themselves; and the public would not take them under its protection.
+They were therefore abandoned, without reserve, to the tender mercies
+of the satirists and dramatists. The ostentatious simplicity of their
+dress, their sour aspect, their nasal twang, their stiff posture,
+their long graces, their Hebrew names, the Scriptural phrases which
+they introduced on every occasion, their contempt of human learning,
+their detestation of polite amusements, were indeed fair game for the
+laughers. But it is not from the laughers alone that the philosophy
+of history is to be learnt. And he who approaches this subject should
+carefully guard against the influence of that potent ridicule which has
+already misled so many excellent writers.
+
+      "Ecco il fonte del riso, ed ecco il rio
+      Che mortali perigli in se contiene:
+      Hor qui tener a fren nostro desio,
+      Ed esser cauti molto a noi conviene."
+
+Those who roused the people to resistance, who directed their measures
+through a long series of eventful years, who formed, out of the most
+unpromising materials, the finest army that Europe had ever seen,
+who trampled down King, Church, and Aristocracy, who, in the short
+intervals of domestic sedition and rebellion, made the name of England
+terrible to every nation on the face of the earth, were no vulgar
+fanatics. Most of their absurdities were mere external badges, like
+the signs of freemasonry, or the dresses of friars. We regret that
+these badges were not more attractive. We regret that a body to whose
+courage and talents mankind has owed inestimable obligations had not
+the lofty elegance which distinguished some of the adherents of Charles
+the First, or the easy good-breeding for which the court of Charles
+the Second was celebrated. But, if we must make our choice, we shall,
+like Bassanio in the play, turn from the specious caskets which contain
+only the Death's head and the Fool's head, and fix on the plain leaden
+chest which conceals the treasure.
+
+The Puritans were men whose minds had derived a peculiar character
+from the daily contemplation of superior beings and eternal interests.
+Not content with acknowledging, in general terms, an overruling
+Providence, they habitually ascribed every event to the will of the
+Great Being, for whose power nothing was too vast, for whose inspection
+nothing was too minute. To know him, to serve him, to enjoy him, was
+with them the great end of existence. They rejected with contempt the
+ceremonious homage which other sects substituted for the pure worship
+of the soul. Instead of catching occasional glimpses of the Deity
+through an obscuring veil, they aspired to gaze full on his intolerable
+brightness, and to commune with him face to face. Hence originated
+their contempt for terrestrial distinctions. The difference between the
+greatest and the meanest of mankind seemed to vanish, when compared
+with the boundless interval which separated the whole race from him on
+whom their own eyes were constantly fixed. They recognised no title
+to superiority but his favour; and, confident of that favour, they
+despised all the accomplishments and all the dignities of the world. If
+they were unacquainted with the works of philosophers and poets, they
+were deeply read in the oracles of God. If their names were not found
+in the registers of heralds, they were recorded in the Book of Life.
+If their steps were not accompanied by a splendid train of menials,
+legions of ministering angels had charge over them. Their palaces were
+houses not made with hands; their diadems crowns of glory which should
+never fade away. On the rich and the eloquent, on nobles and priests
+they looked down with contempt: for they esteemed themselves rich in a
+more precious treasure, and eloquent in a more sublime language, nobles
+by the right of an earlier creation, and priests by the imposition of
+a mightier hand. The very meanest of them was a being to whose fate a
+mysterious and terrible importance belonged, on whose slightest action
+the spirits of light and darkness looked with anxious interest, who
+had been destined, before heaven and earth were created, to enjoy
+a felicity which should continue when heaven and earth should have
+passed away. Events which short-sighted politicians ascribed to earthly
+causes, had been ordained on his account. For his sake empires had
+risen, and flourished, and decayed. For his sake the Almighty had
+proclaimed his will by the pen of the Evangelist, and the harp of the
+prophet. He had been wrested by no common deliverer from the grasp of
+no common foe. He had been ransomed by the sweat of no vulgar agony, by
+the blood of no earthly sacrifice. It was for him that the sun had been
+darkened, that the rocks had been rent, that the dead had risen, that
+all nature had shuddered at the sufferings of her expiring God.
+
+Thus the Puritan was made up of two different men, the one all
+self-abasement, penitence, gratitude, passion, the other proud, calm,
+inflexible, sagacious. He prostrated himself in the dust before his
+Maker; but he set his foot on the neck of his king. In his devotional
+retirement, he prayed with convulsions, and groans, and tears. He was
+half-maddened by glorious or terrible illusions. He heard the lyres
+of angels or the tempting whispers of fiends. He caught a gleam of
+the Beatific Vision, or woke screaming from dreams of everlasting
+fire. Like Vane, he thought himself intrusted with the sceptre of the
+millennial year. Like Fleetwood, he cried in the bitterness of his
+soul that God had hid his face from him. But when he took his seat in
+the council, or girt on his sword for war, these tempestuous workings
+of the soul had left no perceptible trace behind them. People who saw
+nothing of the godly but their uncouth visages, and heard nothing
+from them but their groans and their whining hymns, might laugh at
+them. But those had little reason to laugh who encountered them in the
+hall of debate or in the field of battle. These fanatics brought to
+civil and military affairs a coolness of judgment and an immutability
+of purpose which some writers have thought inconsistent with their
+religious zeal, but which were in fact the necessary effects of it.
+The intensity of their feelings on one subject made them tranquil on
+every other. One overpowering sentiment had subjected to itself pity
+and hatred, ambition and fear. Death had lost its terrors and pleasure
+its charms. They had their smiles and their tears, their raptures and
+their sorrows, but not for the things of this world. Enthusiasm had
+made them Stoics, had cleared their minds from every vulgar passion
+and prejudice, and raised them above the influence of danger and of
+corruption. It sometimes might lead them to pursue unwise ends, but
+never to choose unwise means. They went through the world, like Sir
+Artegal's iron man Talus with his flail, crushing and trampling down
+oppressors, mingling with human beings, but having neither part or lot
+in human infirmities, insensible to fatigue, to pleasure, and to pain,
+not to be pierced by any weapon, not to be withstood by any barrier.
+
+Such we believe to have been the character of the Puritans. We perceive
+the absurdity of their manners. We dislike the sullen gloom of their
+domestic habits. We acknowledge that the tone of their minds was often
+injured by straining after things too high for mortal reach: and we
+know that, in spite of their hatred of Popery, they too often fell
+into the worst vices of that bad system, intolerance and extravagant
+austerity, that they had their anchorites and their crusades, their
+Dunstans and their De Monforts, their Dominics and their Escobars. Yet,
+when all circumstances are taken into consideration, we do not hesitate
+to pronounce them a brave, a wise, an honest, and an useful body.
+
+The Puritans espoused the cause of civil liberty mainly because it
+was the cause of religion. There was another party, by no means
+numerous, but distinguished by learning and ability, which acted with
+them on very different principles. We speak of those whom Cromwell
+was accustomed to call the Heathens, men who were, in the phraseology
+of that time, doubting Thomases or careless Gallios with regard to
+religious subjects, but passionate worshippers of freedom. Heated by
+the study of ancient literature, they set up their country as their
+idol, and proposed to themselves the heroes of Plutarch as their
+examples. They seem to have borne some resemblance to the Brissotines
+of the French Revolution. But it is not very easy to draw the line of
+distinction between them and their devout associates, whose tone and
+manner they sometimes found it convenient to affect, and sometimes, it
+is probable, imperceptibly adopted.
+
+We now come to the Royalists. We shall attempt to speak of them,
+as we have spoken of their antagonists, with perfect candour. We
+shall not charge upon a whole party the profligacy and baseness of
+the horse-boys, gamblers, and bravoes, whom the hope of license and
+plunder attracted from all the dens of Whitefriars to the standard of
+Charles, and who disgraced their associates by excesses which, under
+the stricter discipline of the Parliamentary armies, were never
+tolerated. We will select a more favourable specimen. Thinking as we
+do that the cause of the king was the cause of bigotry and tyranny, we
+yet cannot refrain from looking with complacency on the character of
+the honest old cavaliers. We feel a national pride in comparing them
+with the instruments which the despots of other countries are compelled
+to employ, with the mutes who throng their ante-chambers, and the
+Janissaries who mount guard at their gates. Our royalist countrymen
+were not heartless, dangling courtiers, bowing at every step, and
+simpering at every word. They were not mere machines for destruction,
+dressed up in uniforms, caned into skill, intoxicated into valour,
+defending without love, destroying without hatred. There was a freedom
+in their very degradation. The sentiment of individual independence was
+strong within them. They were indeed misled, but by no base or selfish
+motive. Compassion and romantic honour, the prejudices of childhood,
+and the venerable names of history, threw over them a spell potent as
+that of Duessa; and, like the Red-Cross Knight, they thought that they
+were doing battle for an injured beauty, while they defended a false
+and loathsome sorceress. In truth they scarcely entered at all into the
+merits of the political question. It was not for a treacherous king or
+an intolerant church that they fought, but for the old banner which
+had waved in so many battles over the heads of their fathers, and
+for the altars at which they had received the hands of their brides.
+Though nothing could be more erroneous than their political opinions,
+they possessed, in far greater degree than their adversaries, those
+qualities which are the grace of private life. With many of the vices
+of the Round Table, they had also many of its virtues, courtesy,
+generosity, veracity, tenderness, and respect for women. They had far
+more both of profound and of polite learning than the Puritans. Their
+manners were more engaging, their tempers more amiable, their tastes
+more elegant, and their households more cheerful.
+
+Milton did not strictly belong to any of the classes which we have
+described. He was not a Puritan. He was not a freethinker. He was not
+a Royalist. In his character the noblest qualities of every party
+were combined in harmonious union. From the Parliament and from the
+Court, from the conventicle and from the Gothic cloister, from the
+gloomy and sepulchral circles of the Roundheads, and from the Christmas
+revel of the hospitable Cavalier, his nature selected and drew to
+itself whatever was great and good, while it rejected all the base and
+pernicious ingredients by which those finer elements were defiled. Like
+the Puritans, he lived
+
+      "As ever in his great taskmaster's eye."
+
+Like them, he kept his mind continually fixed on an Almighty Judge and
+an eternal reward. And hence he acquired their contempt of external
+circumstances, their fortitude, their tranquillity, their inflexible
+resolution. But not the coolest sceptic or the most profane scoffer
+was more perfectly free from the contagion of their frantic delusions,
+their savage manners, their ludicrous jargon, their scorn of science,
+and their aversion to pleasure. Hating tyranny with a perfect hatred,
+he had nevertheless all the estimable and ornamental qualities which
+were almost entirely monopolised by the party of the tyrant. There
+was none who had a stronger sense of the value of literature, a finer
+relish for every elegant amusement, or a more chivalrous delicacy of
+honour and love. Though his opinions were democratic, his tastes
+and his associations were such as harmonise best with monarchy and
+aristocracy. He was under the influence of all the feelings by which
+the gallant Cavaliers were misled. But of those feelings he was the
+master and not the slave. Like the hero of Homer, he enjoyed all the
+pleasures of fascination; but he was not fascinated. He listened to the
+song of the Syrens; yet he glided by without being seduced to their
+fatal shore. He tasted the cup of Circe; but he bore about him a sure
+antidote against the effects of its bewitching sweetness. The allusions
+which captivated his imagination never impaired his reasoning powers.
+The statesman was proof against the splendour, the solemnity, and the
+romance which enchanted the poet. Any person who will contrast the
+sentiments expressed in his treatises on Prelacy with the exquisite
+lines on ecclesiastical architecture and music in the Penseroso,
+which was published about the same time, will understand our meaning.
+This is an inconsistency which, more than anything else, raises his
+character in our estimation, because it shows how many private tastes
+and feelings he sacrificed, in order to do what he considered his duty
+to mankind. It is the very struggle of the noble Othello. His heart
+relents; but his hand is firm. He does nought in hate, but all in
+honour. He kisses the beautiful deceiver before he destroys her.
+
+That from which the public character of Milton derives its great and
+peculiar splendour still remains to be mentioned. If he exerted himself
+to overthrow a forsworn king and a persecuting hierarchy, he exerted
+himself in conjunction with others. But the glory of the battle which
+he fought for the species of freedom which is the most valuable, and
+which was then the least understood, the freedom of the human mind, is
+all his own. Thousands and tens of thousands among his contemporaries
+raised their voices against Ship-money and the Star-chamber. But there
+were few indeed who discerned the more fearful evils of moral and
+intellectual slavery, and the benefits which would result from the
+liberty of the press and the unfettered exercise of private judgment.
+These were the objects which Milton justly conceived to be the most
+important. He was desirous that the people should think for themselves
+as well as tax themselves, and should be emancipated from the dominion
+of prejudice as well as from that of Charles. He knew that those who,
+with the best intentions, overlooked these schemes of reform, and
+contented themselves with pulling down the king and imprisoning the
+malignants, acted like the heedless brothers in his own poem, who, in
+their eagerness to disperse the train of the sorcerer, neglected the
+means of liberating the captive. They thought only of conquering when
+they should have thought of disenchanting.
+
+      "Oh, he mistook! Ye should have snatched his wand
+      And bound him fast. Without the rod reversed,
+      And backward mutters of dissevering power,
+      We cannot free the lady that sits here
+      Bound in strong fetters fixed and motionless."
+
+To reverse the rod, to spell the charm backward, to break the ties
+which bound a stupefied people to the seat of enchantment, was the
+noble aim of Milton. To this all his public conduct was directed.
+For this he joined the Presbyterians; for this he forsook them. He
+fought their perilous battle; but he turned away with disdain from
+their insolent triumph. He saw that they, like those whom they had
+vanquished, were hostile to the liberty of thought. He therefore
+joined the Independents, and called upon Cromwell to break the secular
+chain, and to save free conscience from the paw of the Presbyterian
+wolf. With a view to the same great object, he attacked the licensing
+system in that sublime treatise which every statesman should wear as
+a sign upon his hand and as frontlets between his eyes. His attacks
+were, in general, directed less against particular abuses than against
+those deeply seated errors on which almost all abuses are founded, the
+servile worship of eminent men and the irrational dread of innovation.
+
+That he might shake the foundations of these debasing sentiments more
+effectually, he always selected for himself the boldest literary
+services. He never came up in the rear when the outworks had been
+carried and the breach entered. He pressed into the forlorn hope. At
+the beginning of the changes, he wrote within comparable energy and
+eloquence against the bishops. But, when his opinion seemed likely to
+prevail, he passed on to other subjects, and abandoned prelacy to the
+crowd of writers who now hastened to insult a falling party. There is
+no more hazardous enterprise than that of bearing the torch of truth
+into those dark and infected recesses in which no light has ever
+shone. But it was the choice and the pleasure of Milton to penetrate
+the noisome vapours, and to brave the terrible explosion. Those who
+most disapprove of his opinions must respect the hardihood with
+which he maintained them. He, in general, left to others the credit
+of expounding and defending the popular parts of his religious and
+political creed. He took his own stand upon those which the great body
+of his countrymen reprobated as criminal, or derided as paradoxical. He
+stood up for divorce and regicide. He attacked the prevailing systems
+of education. His radiant and beneficent career resembled that of the
+god of light and fertility.
+
+      "Nitor in adversum; nec me, qui cætera, vincit
+      Impetus, et rapido contrarius evehor orbi."
+
+
+
+
+                              CHAPTER VII
+
+
+It is to be regretted that the prose writings of Milton should, in our
+time, be so little read. As compositions, they deserve the attention
+of every man who wishes to become acquainted with the full power of
+the English language. They abound with passages compared with which
+the finest declamations of Burke sink into insignificance. They are
+a perfect field of cloth of gold. The style is stiff with gorgeous
+embroidery. Not even in the earlier books of the Paradise Lost has the
+great poet ever risen higher than in those parts of his controversial
+works in which his feelings, excited by conflict, find a vent in bursts
+of devotional and lyric rapture. It is, to borrow his own majestic
+language, "a seven-fold chorus of hallelujahs and harping symphonies."
+
+We had intended to look more closely at these performances, to analyse
+the peculiarities of the diction, to dwell at some length on the
+sublime wisdom of the Areopagitica and the nervous rhetoric of the
+Iconoclast, and to point out some of those magnificent passages which
+occur in the Treatise of Reformation and the Animadversions on the
+Remonstrant. But the length to which our remarks have already extended
+renders this impossible.
+
+We must conclude. And yet we can scarcely tear ourselves away from the
+subject. The days immediately following the publication of this relic
+of Milton appear to be peculiarly set apart, and consecrated to his
+memory. And we shall scarcely be censured if, on this his festival, we
+be found lingering near his shrine, how worthless soever may be the
+offering which we bring to it. While this book lies on our table, we
+seem to be contemporaries of the writer. We are transported a hundred
+and fifty years back. We can almost fancy that we are visiting him in
+his small lodging; that we see him sitting at the old organ beneath
+the faded green hangings; that we can catch the quick twinkle of his
+eyes, rolling in vain to find the day; that we are reading in the lines
+of his noble countenance the proud and mournful history of his glory
+and his affliction. We image to ourselves the breathless silence in
+which we should listen to his slightest word, the passionate veneration
+with which we should kneel to kiss his hand and weep upon it, the
+earnestness with which we should endeavour to console him, if indeed
+such a spirit could need consolation, for the neglect of an age
+unworthy of his talents and his virtues, the eagerness with which we
+should contest with his daughters, or with his Quaker friend Elwood,
+the privilege of reading Homer to him, or of taking down the immortal
+accents which flowed from his lips.
+
+These are perhaps foolish feelings. Yet we cannot be ashamed of
+them; nor shall we be sorry if what we have written shall in any
+degree excite them in other minds. We are not much in the habit of
+idolising either the living or the dead. And we think that there is
+no more certain indication of a weak and ill-regulated intellect than
+that propensity which, for want of a better name, we will venture to
+christen Boswellism. But there are a few characters which have stood
+the closest scrutiny and the severest tests, which have been tried
+in the furnace and have proved pure, which have been weighed in the
+balance and have not been found wanting, which have been declared
+sterling by the general consent of mankind, and which are visibly
+stamped with the image and superscription of the Most High. These
+great men we trust that we know how to prize; and of these was Milton.
+The sight of his books, the sound of his name, are pleasant to us.
+His thoughts resemble those celestial fruits and flowers which the
+Virgin Martyr of Massinger sent down from the gardens of Paradise to
+the earth, and which were distinguished from the productions of other
+soils, not only by superior bloom and sweetness, but by miraculous
+efficacy to invigorate and to heal. They are powerful, not only to
+delight, but to elevate and purify. Nor do we envy the man who can
+study either the life or the writings of the great poet and patriot,
+without aspiring to emulate, not indeed the sublime works with which
+his genius has enriched our literature, but the zeal with which he
+laboured for the public good, the fortitude with which he endured
+every private calamity, the lofty disdain with which he looked down on
+temptations and dangers, the deadly hatred which he bore to bigots and
+tyrants, and the faith which he so sternly kept with his country and
+with his fame.
+
+
+THE END.
+
+
+
+
+
+
+End of the Project Gutenberg EBook of Milton, by Thomas Macaulay
+
+*** END OF THIS PROJECT GUTENBERG EBOOK MILTON ***
+
+***** This file should be named 62572-8.txt or 62572-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/2/5/7/62572/
+
+Produced by Andrés V. Galia and the Online Distributed
+Proofreading Team at https://www.pgdp.net (This book was
+produced from images made available by the HathiTrust
+Digital Library.)
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+

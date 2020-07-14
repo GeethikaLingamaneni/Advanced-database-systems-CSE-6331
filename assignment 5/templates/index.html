@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+    <title>{% block title %}{% endblock %}  Home</title>
+    {% endblock %}
+</head>
+<body>
+<header>
+<b>
+<h2>Geethika 1001743466<br> 
+Assignment 5 in AWS</h2>
+</b>
+</header>
+
+<p>
+    <form action="/largest5" method="post">
+        Search for 5 largest earthquakes <input type="submit" value="Search">
+    </form>
+</p>
+
+
+<p>
+    <form action="/within500kmofA" method="post">
+        Search for Quakes within 500 km of Arlington <input type="submit" value="Search">
+    </form>
+</p>
+
+<p>
+    <form action="/quakesinjune1-8" method="post">
+        Search for Quakes between June 1-June 8 greater than 3 on Ritcher <input type="submit" value="Search">
+    </form>
+</p>
+
+<p>
+    <form action="/quakesrange" method="get">
+        Magnitude Range from<input type="text" name="rangefrom" maxlength="200" width="60"> <br/>
+        Magnitude Range To<input type="text" name="rangeto" maxlength="200" width="60"><br/>
+   <input type="submit" value="Search for number of quakes between the range from 1 to 2 upto 7 "><br/><br/>
+   </form>
+</p>
+
+
+
+<p>
+    <form action="/within200kmofDallas" method="post">
+        Search for largest Quake within 200 km of Dallas <input type="submit" value="Search">
+    </form>
+</p>
+
+
+<p>
+    <form action="/newsearch" method="post">
+        Search for number of Quakes within 1000 km of Dallas and Anchorage <input type="submit" value="Search">
+    
+    </form>
+</p>
+
+
+
+
+
+
+</body>
+</html>

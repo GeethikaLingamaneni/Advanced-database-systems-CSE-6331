@@ -1,0 +1,446 @@
+Link: http://adbassignment5-env.eba-jpuwnpbi.us-east-2.elasticbeanstalk.com/
+
+1)
+<p>
+    <form action="/largest5" method="post">
+        Search for 5 largest earthquakes <input type="submit" value="Search">
+    </form>
+</p>
+def largest():
+    dbconn = pymssql.connect(server='adbdb.ccqiv46tukii.us-east-2.rds.amazonaws.com', port=1433, user='geethika', password='geethika', database='adbdb')
+    #dbconn = pymssql.connect('DRIVER='+driver+';SERVER='+server+';PORT=1433;DATABASE='+database+';UID='+username+';PWD='+ password)
+    cursor = dbconn.cursor()
+
+
+    cursor.execute("select top (5) mag,time,place from edata order by mag desc")
+    rows = cursor.fetchall()
+    return render_template('largest.html',r=rows)
+
+@application.route("/largest5", methods=['POST'])
+def large():
+    return largest()
+
+{% block content %}
+{% for ci in r %}
+  
+<p><b>Mag : {{ci[0]}} -- Time : {{ci[1]}} -- Place : {{ci[2]}}</b></p>
+
+{% endfor %}
+{% endblock %}
+
+
+
+2)
+<p>
+    <form action="/within500kmofA" method="post">
+        Search for Quakes within 500 km of Arlington <input type="submit" value="Search">
+    </form>
+</p>
+def arlington():
+    dbconn = pymssql.connect(server='adbdb.ccqiv46tukii.us-east-2.rds.amazonaws.com', port=1433, user='geethika', password='geethika', database='adbdb')
+    #dbconn = pymssql.connect('DRIVER='+driver+';SERVER='+server+';PORT=1433;DATABASE='+database+';UID='+username+';PWD='+ password)
+    cursor = dbconn.cursor()
+
+
+    cursor.execute("Select mag,time,place from edata where acos(sin((3.14/180)*32.7357) * sin((3.14/180)*latitude) + cos((3.14/180)*32.7357) * cos((3.14/180)*latitude) * cos((3.14/180)*longitude - ((3.14/180)*(-97.1081)))) * 6371 < 500")
+    rows = cursor.fetchall()
+    return render_template('largest.html',r=rows)
+
+
+@application.route("/within500kmofA", methods=['POST'])
+def nearer():
+    return arlington()
+
+{% block content %}
+{% for ci in r %}
+  
+<p><b>Mag : {{ci[0]}} -- Time : {{ci[1]}} -- Place : {{ci[2]}}</b></p>
+
+{% endfor %}
+{% endblock %}
+
+
+
+3)
+<p>
+    <form action="/quakesinjune1-8" method="post">
+        Search for Quakes between June 1-June 8 greater than 3 on Ritcher <input type="submit" value="Search">
+    </form>
+</p>
+def greaterthan3():
+    dbconn = pymssql.connect(server='adbdb.ccqiv46tukii.us-east-2.rds.amazonaws.com', port=1433, user='geethika', password='geethika', database='adbdb')
+    #dbconn = pymssql.connect('DRIVER='+driver+';SERVER='+server+';PORT=1433;DATABASE='+database+';UID='+username+';PWD='+ password)
+    cursor = dbconn.cursor()
+
+    cursor.execute("Select mag,time,place from edata where mag>3 and (TIME between '2020-06-01' and '2020-06-08')")
+    rows = cursor.fetchall()
+    return render_template('largest.html',r=rows)
+
+@application.route("/quakesinjune1-8", methods=['POST'])
+def greater():
+    return greaterthan3()
+
+{% block content %}
+{% for ci in r %}
+  
+
+<p><b>Mag : {{ci[0]}} -- Time : {{ci[1]}} -- Place : {{ci[2]}}</b></p>
+
+{% endfor %}
+{% endblock %}
+
+
+4)
+<p>
+    <form action="/quakesrange" method="get">
+        Magnitude Range from<input type="text" name="rangefrom" maxlength="200" width="60"> <br/>
+        Magnitude Range To<input type="text" name="rangeto" maxlength="200" width="60"><br/>
+   <input type="submit" value="Search for number of quakes between the range from 1 to 2 upto 7 "><br/><br/>
+   </form>
+</p>
+
+def recent3days(rangefrom=None,rangeto=None):
+    dbconn = pymssql.connect(server='adbdb.ccqiv46tukii.us-east-2.rds.amazonaws.com', port=1433, user='geethika', password='geethika', database='adbdb')
+    #dbconn = pymssql.connect('DRIVER='+driver+';SERVER='+server+';PORT=1433;DATABASE='+database+';UID='+username+';PWD='+ password)
+    cursor = dbconn.cursor()
+
+
+    cursor.execute("Select count(*) from edata where( mag BETWEEN " + rangefrom +" AND " + rangeto + ") AND (TIME between '2020-06-11' and '2020-06-13')")
+    rows = cursor.fetchone()
+    return render_template('count.html',r=rows)
+
+
+@application.route("/quakesrange", methods=['GET'])
+def rangeq():
+    rangefrom = request.args.get('rangefrom', '')
+    rangeto = request.args.get('rangeto', '')
+    return recent3days(rangefrom, rangeto)
+
+{% block content %}
+{% for ci in r %}
+  
+  <p><b>{{ci}}</b></p>
+
+{% endfor %}
+{% endblock %}
+
+5)
+<p>
+    <form action="/within200kmofDallas" method="post">
+        Search for largest Quake within 200 km of Dallas <input type="submit" value="Search">
+    </form>
+</p>
+
+def dallas():
+    dbconn = pymssql.connect(server='adbdb.ccqiv46tukii.us-east-2.rds.amazonaws.com', port=1433, user='geethika', password='geethika', database='adbdb')
+    #dbconn = pymssql.connect('DRIVER='+driver+';SERVER='+server+';PORT=1433;DATABASE='+database+';UID='+username+';PWD='+ password)
+    cursor = dbconn.cursor()
+
+
+    cursor.execute("Select top(1) mag,time,place from edata where acos(sin((3.14/180)*32.8) * sin((3.14/180)*latitude) + cos((3.14/180)*32.8) * cos((3.14/180)*latitude) * cos((3.14/180)*longitude - ((3.14/180)*(-96.8)))) * 6371 < 200")
+    rows = cursor.fetchall()
+    return render_template('largest.html',r=rows)
+
+@application.route("/within200kmofDallas", methods=['POST'])
+def near():
+    return dallas()
+
+{% block content %}
+{% for ci in r %}
+  
+
+<p><b>Mag : {{ci[0]}} -- Time : {{ci[1]}} -- Place : {{ci[2]}}</b></p>
+
+{% endfor %}
+{% endblock %}
+
+
+
+6)
+<p>
+    <form action="/newsearch" method="post">
+        Search for number of Quakes within 1000 km of Dallas and Anchorage <input type="submit" value="Search">
+    
+    </form>
+</p>
+
+def new():
+    dbconn = pymssql.connect(server='adbdb.ccqiv46tukii.us-east-2.rds.amazonaws.com', port=1433, user='geethika', password='geethika', database='adbdb')
+    #dbconn = pymssql.connect('DRIVER='+driver+';SERVER='+server+';PORT=1433;DATABASE='+database+';UID='+username+';PWD='+ password)
+    cursor = dbconn.cursor()
+
+    cursor.execute("SELECT count(*) FROM edata WHERE acos(sin((3.14/180)*32.8) * sin((3.14/180)*latitude) + cos((3.14/180)*32.8) * cos((3.14/180)*latitude) * cos((3.14/180)*longitude - ((3.14/180)*(-96.8)))) * 6371 < 1000" )
+    rows = cursor.fetchone()
+    cursor.execute("SELECT count(*) FROM edata WHERE acos(sin((3.14/180)*61) * sin((3.14/180)*latitude) + cos((3.14/180)*61) * cos((3.14/180)*latitude) * cos((3.14/180)*longitude - ((3.14/180)*(-150)))) * 6371 < 1000" )
+    rowsa = cursor.fetchone()
+    return render_template('both.html',r=rows,l=rowsa)
+
+@application.route("/newsearch", methods=['POST'])
+def newarea():
+    return new()
+
+{% block content %}
+{% for ci in r %}
+  <p><b>dallas: {{ci}}</b></p>
+ 
+{% for mi in l %}  
+  <p><b>anchorage: {{mi}}</b></p>
+  
+  The number of earth quakes within 1000kms of Anchorage: {{mi}} is more than Dallas: {{ci}}
+
+{% endfor %}
+{% endfor %} 
+
+{% endblock %}
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+--> HTTP Request.jmx (Use this with jmeter for load testing)
+
+<?xml version="1.0" encoding="UTF-8"?>
+<jmeterTestPlan version="1.2" properties="5.0" jmeter="5.3">
+  <hashTree>
+    <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="Aws jmeter" enabled="true">
+      <stringProp name="TestPlan.comments"></stringProp>
+      <boolProp name="TestPlan.functional_mode">false</boolProp>
+      <boolProp name="TestPlan.tearDown_on_shutdown">true</boolProp>
+      <boolProp name="TestPlan.serialize_threadgroups">false</boolProp>
+      <elementProp name="TestPlan.user_defined_variables" elementType="Arguments" guiclass="ArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+        <collectionProp name="Arguments.arguments"/>
+      </elementProp>
+      <stringProp name="TestPlan.user_define_classpath"></stringProp>
+    </TestPlan>
+    <hashTree>
+      <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Adb 5 aws" enabled="true">
+        <stringProp name="ThreadGroup.on_sample_error">continue</stringProp>
+        <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller" enabled="true">
+          <boolProp name="LoopController.continue_forever">false</boolProp>
+          <stringProp name="LoopController.loops">5000</stringProp>
+        </elementProp>
+        <stringProp name="ThreadGroup.num_threads">20</stringProp>
+        <stringProp name="ThreadGroup.ramp_time">5</stringProp>
+        <boolProp name="ThreadGroup.scheduler">false</boolProp>
+        <stringProp name="ThreadGroup.duration"></stringProp>
+        <stringProp name="ThreadGroup.delay"></stringProp>
+        <boolProp name="ThreadGroup.same_user_on_next_iteration">true</boolProp>
+      </ThreadGroup>
+      <hashTree>
+        <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="HTTP Request" enabled="true">
+          <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
+            <collectionProp name="Arguments.arguments"/>
+          </elementProp>
+          <stringProp name="HTTPSampler.domain">adbassignment5-env.eba-jpuwnpbi.us-east-2.elasticbeanstalk.com</stringProp>
+          <stringProp name="HTTPSampler.port"></stringProp>
+          <stringProp name="HTTPSampler.protocol"></stringProp>
+          <stringProp name="HTTPSampler.contentEncoding"></stringProp>
+          <stringProp name="HTTPSampler.path"></stringProp>
+          <stringProp name="HTTPSampler.method">GET</stringProp>
+          <boolProp name="HTTPSampler.follow_redirects">true</boolProp>
+          <boolProp name="HTTPSampler.auto_redirects">false</boolProp>
+          <boolProp name="HTTPSampler.use_keepalive">true</boolProp>
+          <boolProp name="HTTPSampler.DO_MULTIPART_POST">false</boolProp>
+          <stringProp name="HTTPSampler.embedded_url_re"></stringProp>
+          <stringProp name="HTTPSampler.connect_timeout"></stringProp>
+          <stringProp name="HTTPSampler.response_timeout"></stringProp>
+        </HTTPSamplerProxy>
+        <hashTree>
+          <ResultCollector guiclass="StatGraphVisualizer" testclass="ResultCollector" testname="Aggregate Graph" enabled="true">
+            <boolProp name="ResultCollector.error_logging">false</boolProp>
+            <objProp>
+              <name>saveConfig</name>
+              <value class="SampleSaveConfiguration">
+                <time>true</time>
+                <latency>true</latency>
+                <timestamp>true</timestamp>
+                <success>true</success>
+                <label>true</label>
+                <code>true</code>
+                <message>true</message>
+                <threadName>true</threadName>
+                <dataType>true</dataType>
+                <encoding>false</encoding>
+                <assertions>true</assertions>
+                <subresults>true</subresults>
+                <responseData>false</responseData>
+                <samplerData>false</samplerData>
+                <xml>false</xml>
+                <fieldNames>true</fieldNames>
+                <responseHeaders>false</responseHeaders>
+                <requestHeaders>false</requestHeaders>
+                <responseDataOnError>false</responseDataOnError>
+                <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
+                <assertionsResultsToSave>0</assertionsResultsToSave>
+                <bytes>true</bytes>
+                <sentBytes>true</sentBytes>
+                <url>true</url>
+                <threadCounts>true</threadCounts>
+                <idleTime>true</idleTime>
+                <connectTime>true</connectTime>
+              </value>
+            </objProp>
+            <stringProp name="filename"></stringProp>
+          </ResultCollector>
+          <hashTree/>
+          <ResultCollector guiclass="ViewResultsFullVisualizer" testclass="ResultCollector" testname="View Results Tree" enabled="true">
+            <boolProp name="ResultCollector.error_logging">false</boolProp>
+            <objProp>
+              <name>saveConfig</name>
+              <value class="SampleSaveConfiguration">
+                <time>true</time>
+                <latency>true</latency>
+                <timestamp>true</timestamp>
+                <success>true</success>
+                <label>true</label>
+                <code>true</code>
+                <message>true</message>
+                <threadName>true</threadName>
+                <dataType>true</dataType>
+                <encoding>false</encoding>
+                <assertions>true</assertions>
+                <subresults>true</subresults>
+                <responseData>false</responseData>
+                <samplerData>false</samplerData>
+                <xml>false</xml>
+                <fieldNames>true</fieldNames>
+                <responseHeaders>false</responseHeaders>
+                <requestHeaders>false</requestHeaders>
+                <responseDataOnError>false</responseDataOnError>
+                <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
+                <assertionsResultsToSave>0</assertionsResultsToSave>
+                <bytes>true</bytes>
+                <sentBytes>true</sentBytes>
+                <url>true</url>
+                <threadCounts>true</threadCounts>
+                <idleTime>true</idleTime>
+                <connectTime>true</connectTime>
+              </value>
+            </objProp>
+            <stringProp name="filename"></stringProp>
+          </ResultCollector>
+          <hashTree/>
+          <ResultSaver guiclass="ResultSaverGui" testclass="ResultSaver" testname="Save Responses to a file" enabled="true">
+            <stringProp name="FileSaver.filename"></stringProp>
+            <boolProp name="FileSaver.errorsonly">false</boolProp>
+            <boolProp name="FileSaver.successonly">false</boolProp>
+            <boolProp name="FileSaver.skipsuffix">false</boolProp>
+            <boolProp name="FileSaver.skipautonumber">false</boolProp>
+          </ResultSaver>
+          <hashTree/>
+          <ResultCollector guiclass="RespTimeGraphVisualizer" testclass="ResultCollector" testname="Response Time Graph" enabled="true">
+            <boolProp name="ResultCollector.error_logging">false</boolProp>
+            <objProp>
+              <name>saveConfig</name>
+              <value class="SampleSaveConfiguration">
+                <time>true</time>
+                <latency>true</latency>
+                <timestamp>true</timestamp>
+                <success>true</success>
+                <label>true</label>
+                <code>true</code>
+                <message>true</message>
+                <threadName>true</threadName>
+                <dataType>true</dataType>
+                <encoding>false</encoding>
+                <assertions>true</assertions>
+                <subresults>true</subresults>
+                <responseData>false</responseData>
+                <samplerData>false</samplerData>
+                <xml>false</xml>
+                <fieldNames>true</fieldNames>
+                <responseHeaders>false</responseHeaders>
+                <requestHeaders>false</requestHeaders>
+                <responseDataOnError>false</responseDataOnError>
+                <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
+                <assertionsResultsToSave>0</assertionsResultsToSave>
+                <bytes>true</bytes>
+                <sentBytes>true</sentBytes>
+                <url>true</url>
+                <threadCounts>true</threadCounts>
+                <idleTime>true</idleTime>
+                <connectTime>true</connectTime>
+              </value>
+            </objProp>
+            <stringProp name="filename"></stringProp>
+            <stringProp name="RespTimeGraph.interval">10</stringProp>
+          </ResultCollector>
+          <hashTree/>
+          <ResultCollector guiclass="TableVisualizer" testclass="ResultCollector" testname="View Results in Table" enabled="true">
+            <boolProp name="ResultCollector.error_logging">false</boolProp>
+            <objProp>
+              <name>saveConfig</name>
+              <value class="SampleSaveConfiguration">
+                <time>true</time>
+                <latency>true</latency>
+                <timestamp>true</timestamp>
+                <success>true</success>
+                <label>true</label>
+                <code>true</code>
+                <message>true</message>
+                <threadName>true</threadName>
+                <dataType>true</dataType>
+                <encoding>false</encoding>
+                <assertions>true</assertions>
+                <subresults>true</subresults>
+                <responseData>false</responseData>
+                <samplerData>false</samplerData>
+                <xml>false</xml>
+                <fieldNames>true</fieldNames>
+                <responseHeaders>false</responseHeaders>
+                <requestHeaders>false</requestHeaders>
+                <responseDataOnError>false</responseDataOnError>
+                <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
+                <assertionsResultsToSave>0</assertionsResultsToSave>
+                <bytes>true</bytes>
+                <sentBytes>true</sentBytes>
+                <url>true</url>
+                <threadCounts>true</threadCounts>
+                <idleTime>true</idleTime>
+                <connectTime>true</connectTime>
+              </value>
+            </objProp>
+            <stringProp name="filename"></stringProp>
+          </ResultCollector>
+          <hashTree/>
+          <ResultCollector guiclass="GraphVisualizer" testclass="ResultCollector" testname="Graph Results" enabled="true">
+            <boolProp name="ResultCollector.error_logging">false</boolProp>
+            <objProp>
+              <name>saveConfig</name>
+              <value class="SampleSaveConfiguration">
+                <time>true</time>
+                <latency>true</latency>
+                <timestamp>true</timestamp>
+                <success>true</success>
+                <label>true</label>
+                <code>true</code>
+                <message>true</message>
+                <threadName>true</threadName>
+                <dataType>true</dataType>
+                <encoding>false</encoding>
+                <assertions>true</assertions>
+                <subresults>true</subresults>
+                <responseData>false</responseData>
+                <samplerData>false</samplerData>
+                <xml>false</xml>
+                <fieldNames>true</fieldNames>
+                <responseHeaders>false</responseHeaders>
+                <requestHeaders>false</requestHeaders>
+                <responseDataOnError>false</responseDataOnError>
+                <saveAssertionResultsFailureMessage>true</saveAssertionResultsFailureMessage>
+                <assertionsResultsToSave>0</assertionsResultsToSave>
+                <bytes>true</bytes>
+                <sentBytes>true</sentBytes>
+                <url>true</url>
+                <threadCounts>true</threadCounts>
+                <idleTime>true</idleTime>
+                <connectTime>true</connectTime>
+              </value>
+            </objProp>
+            <stringProp name="filename"></stringProp>
+          </ResultCollector>
+          <hashTree/>
+        </hashTree>
+      </hashTree>
+    </hashTree>
+  </hashTree>
+</jmeterTestPlan>

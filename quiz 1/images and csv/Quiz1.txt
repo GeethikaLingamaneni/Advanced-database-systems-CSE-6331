@@ -1,0 +1,194 @@
+
+Name: Geethika Lingamaneni
+Last 4 digits ID: 3466
+
+CSE 6331, Cloud Computing					
+
+
+Quiz Q1, 8.10, Summer 2020   (c) DL, UTA, 2020
+
+
+  C&P means cut and paste only those relevant lines from your program(s) into this quiz.
+
+
+ 1.  I understand that I am on my honor during this quiz, I will not collaborate, use 
+     non-allowed sources, and I will not discuss or share this quiz with anyone for the next 
+     12 hours.
+     You MAY: use Google to search, use previous source code, 
+     YOU MAY NOT use:
+     Email, Facebook, Hangouts, IM, chats, Skype or ANY other human connection.
+
+     This is a timed test. Late tests will have points deducted for being late.
+     Very late tests will not be graded.
+
+     When you are complete, with any part, please send the link, raise your hand, so we may visually inspect that part.
+
+     The second part of the test, you should electronically submit, you will need to copy and paste 
+     only those lines of code to implement that part of the test, usually a few (two to eight) lines of code. 
+     Place it immediately after the question.
+
+     Submit this Quiz (renamed) with code cut and pasted, ONLY text. DO NOT submit zips, binaries, libraries,
+     or anything other than text.
+
+     When any parts(questions) are complete complete, submit this test, you may make multiple submissions.
+
+     If you have computer, or other, problems, please raise your hand immediately.
+
+     If you understand and agree, please initial here:
+     ________L_________
+
+ 2. Get files from this same folder.
+   
+ 3. Name your program/submission with your name and last digits of your ID.
+
+ 4a. Using the cloud services provider, all functionality possible should be implemented on that provider.
+     (Of course, displaying web pages through a browser and the user interface is "local")
+
+ 4b. Upload all data files (*jpg and *csv, not this quiz) to cloud service. 
+  
+Show and submit code, when each part is complete, raise your hand and then show us:
+
+ To recieve credit you MUST show (demo) AND submit the code (text only) on Canvas.
+
+ 5. Show a web page and interface (which resides on the cloud provider) with 
+    the picture "c.jpg" at the top, below that your name and below that your student ID.
+    For all questions after this one, on the top of each page, please show your name, 
+    then below that your ID.
+    Please use a large font.
+    The cloud service provider is IBM Cloud (BlueMix).
+
+<body>
+<header>
+<b>
+<h2>Geethika Lingamaneni: 1001743466</h2>
+</b>
+</header>
+
+<hr>
+
+<img src="static/images/c.jpg" alt="" width="120" height="120"/>
+<h2>Geethika Lingamaneni</h2><br>
+
+<h2>ID: 1001743466</h2>
+
+</body>
+
+
+ 6. Please show a web interface that allows a user to enter a value. (Such as 3 or 3.01 or "fish")
+    Then display that value, and below that a text which say "Even" or "Odd", indicating
+    that the value is even or odd. If the value is not even or odd (for example "fish") display "Not Known". 
+    Display the result on a web page.
+
+
+
+ 7. (Web Page) allow a user to give a range of room numbers (for example: 60 to 100), and you will show 
+    all the names, pictures, and captions of ALL people within that range.
+<p>
+{% block content %}
+<h3>Room Details</h3>
+{% for rooms in r %}
+  
+  <p><b>{{rooms["Name"]}}</b>'s caption is <b>({{rooms["Caption"]}})</b> and picture :  <b> 
+  <img src="static/images/{{rooms["Picture"]}}" alt="" width="200" height="200"/ >
+   </b> </p>
+
+<body>
+<header>
+<b>
+<h2>Geethika Lingamaneni: 1001743466</h2>
+</b>
+</header>
+
+<hr>
+
+<img src="static/images/c.jpg" alt="" width="120" height="120"/>
+<h2>Geethika Lingamaneni</h2><br>
+
+<h2>ID: 1001743466</h2>
+
+
+
+<p>
+ <form action="/roomrange" method="get">
+   Room numbers <input type="number" name="min"  maxlength="200" width="60">
+   and <input type="number" name="max" maxlength="200" width="60"> </br>
+   <input type="submit" value="Search">
+</form>
+</p>
+
+</body>
+
+def room(min=None, max=None):
+    # connect to DB2
+    db2conn = ibm_db.connect("DATABASE="+db2cred['db']+";HOSTNAME="+db2cred['hostname']+";PORT="+str(db2cred['port'])+";UID="+db2cred['username']+";PWD="+db2cred['password']+";","","")
+    if db2conn:
+        # we have a Db2 connection, query the database
+         sql='select * from NAMES where "Room">=? and "Room"<=?'
+        # Note that for security reasons we are preparing the statement first,
+        # then bind the form input as value to the statement to replace the
+        # parameter marker.
+        stmt = ibm_db.prepare(db2conn,sql)
+        ibm_db.bind_param(stmt, 1, min)
+        ibm_db.bind_param(stmt, 2, max)
+        ibm_db.execute(stmt)
+        rows=[]
+        # fetch the result
+        result = ibm_db.fetch_assoc(stmt)
+        while result != False:
+            rows.append(result.copy())
+            result = ibm_db.fetch_assoc(stmt)
+        # close database connection
+        ibm_db.close(db2conn)
+    return render_template('rooms.html',r=rows,min=min,max=max)
+    
+@app.route('/roomrange', methods=['GET'])
+def rangesearchs():
+    min = request.args.get('min', '')
+    max = request.args.get('max', '')
+    return room(min, max)
+
+ 8. (Web Page) allow a user to give ID or a Room number, and allow a user to change the Name or the Picture.
+
+
+<p>
+ <form action="/updatename" method="get">
+   ID: <input type="text" name="idToUpdate" maxlength="200" width="60"> </br>
+   Name : <input type="text" name="newName" maxlength="200" width="60"> </br>
+   <input type="submit" value="Update Name">
+</form>
+</p>
+
+ 
+def updatename(idToUpdate=None, newName=None):
+    # connect to DB2
+    db2conn = ibm_db.connect("DATABASE="+db2cred['db']+";HOSTNAME="+db2cred['hostname']+";PORT="+str(db2cred['port'])+";UID="+db2cred['username']+";PWD="+db2cred['password']+";","","")
+    if db2conn:
+        # we have a Db2 connection, query the database
+        sql='Update PEOPLE set "Keywords"=? where "Name"=?'
+        # Note that for security reasons we are preparing the statement first,
+        # then bind the form input as value to the statement to replace the
+        # parameter marker.
+        stmt = ibm_db.prepare(db2conn,sql)
+        ibm_db.bind_param(stmt, 1, newName)
+        ibm_db.bind_param(stmt, 2, idToUpdate)
+        ibm_db.execute(stmt)
+        rows=[]
+        
+        # close database connection
+        ibm_db.close(db2conn)
+    return render_template('update.html')	 
+ 
+@app.route('/updatename', methods=['GET'])
+def update():
+    idToUpdate = request.args.get('idToUpdate', '')
+    newName = request.args.get('newName', '')
+    return updatename(idToUpdate, newName)
+
+ 9. Show us, in a link, the application running and we will try it out. Only for parts 5, 6, 7, 8
+
+https://q1geethika.mybluemix.net/
+
+ 10. When complete, return (send) this quiz
+     If you finish early, send this immediately, otherwise send between
+     the end of class and no more than 1 minute after that.
+

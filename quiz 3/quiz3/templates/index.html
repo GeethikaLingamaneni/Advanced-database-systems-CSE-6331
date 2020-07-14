@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+    <title>{% block title %}{% endblock %}  Home</title>
+    {% endblock %}
+</head>
+<body>
+<header>
+<b>
+   <h1>Geethika Lingamaneni : 1001743466</h1>
+</b>
+</header>
+<br>
+
+<p>ques 7:<br>
+   <form action="/seventh" method="get">
+     Country code<input type="text" name="code" maxlength="200" width="60"> <br/>
+     
+     <input type="submit" value="Search for terrorist incidents"><br/><br/>
+  </form>
+  </p>
+
+  <p>ques 8:<br>
+   <form action="/eighth" method="get">
+     Range of years: Starting from <input type="text" name="val1" maxlength="200" width="60"> to <input type="text" name="val2" maxlength="200" width="60"><br/>
+     
+     <input type="submit" value="Search "><br/><br/>
+  </form>
+  </p>
+
+
+  ques 9:<br>
+  <p> 
+   <form action="/nine" method="get">
+     Percentage range: From <input type="text" name="va1" maxlength="200" width="60"> to <input type="text" name="va2" maxlength="200" width="60"><br/>
+     <input type="submit" value="Search "><br/><br/>
+  </form>
+  </p>
+
+
+
+
+
+
+   ques 10:<br>
+  <p> WITHOUT CACHE:<br>
+   <form action="/tena" method="get">
+     Range of years: Starting from <input type="text" name="val1" maxlength="200" width="60"> to <input type="text" name="val2" maxlength="200" width="60"><br/>
+     Number of times to run without cache:<input type="text" name="num2"  maxlength="200" width="60">
+     <input type="submit" value="Search "><br/><br/>
+  </form>
+  </p>
+
+
+  <p> 
+   <form action="/ninea" method="get">
+     Percentage range: From <input type="text" name="va3" maxlength="200" width="60"> to <input type="text" name="va4" maxlength="200" width="60"><br/>
+     Number of times to run without cache:<input type="text" name="numa"  maxlength="200" width="60">
+     <input type="submit" value="Search "><br/><br/>
+  </form>
+  </p>
+
+  ques 11:<br>
+  <p> WITH CACHE:<br>
+   <form action="/elevena" method="get">
+     Range of years: Starting from <input type="text" name="value1" maxlength="200" width="60"> to <input type="text" name="value2" maxlength="200" width="60"><br/>
+     Number of times to run with cache:<input type="text" name="num3"  maxlength="200" width="60">
+     <input type="submit" value="Search "><br/><br/>
+  </form>
+  </p>
+
+  <p> 
+   <form action="/nineb" method="get">
+     Percentage range: From <input type="text" name="va5" maxlength="200" width="60"> to <input type="text" name="va6" maxlength="200" width="60"><br/>
+     Number of times to run with cache:<input type="text" name="numb"  maxlength="200" width="60">
+     <input type="submit" value="Search "><br/><br/>
+  </form>
+  </p>
+
+</body>
+</html>

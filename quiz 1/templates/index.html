@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+
+        <link rel="stylesheet" href="static/style.css">
+    <title>{% block title %}{% endblock %}  Home</title>
+    {% endblock %}
+</head>
+<body>
+<header>
+<b>
+<h2>Geethika Lingamaneni: 1001743466</h2>
+</b>
+</header>
+
+<hr>
+
+<img src="static/images/c.png" alt="" width="120" height="120"/>
+<h2>Geethika Lingamaneni</h2><br>
+
+<h2>ID: 1001743466</h2>
+
+
+
+<p>
+ <form action="/roomrange" method="get">
+   Room numbers <input type="number" name="minim"  maxlength="200" width="60">
+   and <input type="number" name="max" maxlength="200" width="60"> </br>
+   <input type="submit" value="Search">
+</form>
+</p>
+
+
+<p>
+ <form action="/updatename" method="get">
+   ID: <input type="text" name="idToUpdate" maxlength="200" width="60"> </br>
+   Name : <input type="text" name="newName" maxlength="200" width="60"> </br>
+   <input type="submit" value="Update Name">
+</form>
+</p>
+
+
+<p>
+   input
+  <form class="form" action="/updatevalue" method="get">
+   Enter: <input class="forminput" type="text" name="min" maxlength="200" width="60"> </br>
+   <input class="formbutton" type="submit" value="Submit">
+   </form>
+   </p>
+    <p>
+
+
+</body>
+</html>

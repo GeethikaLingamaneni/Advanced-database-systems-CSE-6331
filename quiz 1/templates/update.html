@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+    <title>{% block title %}{% endblock %} People</title>
+    {% endblock %}
+</head>
+<body>
+<header>
+<b>
+<h1>Geethika Lingamaneni: 1001743466</h1>
+</b>
+</header>
+<p>
+{% block content %}
+
+<h1>Successfully updated</h1>
+{% endblock %}
+</p>
+</body>
+</html>

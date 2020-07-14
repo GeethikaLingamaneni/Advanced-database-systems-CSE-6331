@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+    <title>{% block title %}{% endblock %}  Home</title>
+    {% endblock %}
+</head>
+<body>
+<header>
+<b>
+Geethika Lingamaneni 1001743466
+</b>
+</header>
+
+<p>
+    <form action="/largest5" method="post">
+        Search for 5 largest earthquakes <input type="submit" value="Search">
+    </form>
+</p>
+
+
+<p>
+    <form action="/within500kmofA" method="post">
+        Search for Quakes within 500 km of Arlington <input type="submit" value="Search">
+    </form>
+</p>
+
+<p>
+    <form action="/quakesinjune1-8" method="get">
+       <b> date from </b><input type="date" value="2020-06-01" name="datefrom" maxlength="200" width="60"> 
+        <b>to </b> <input type="date"  value="2020-06-08" name="dateto" maxlength="200" width="60"> </br>
+
+     <b>   Search for the earthquakes greater than 3 magnitude from 1-8 june</b><input type="submit" value="search">
+    </form>
+</p>
+
+<p>
+    <form action="/quakesrange" method="get">
+        <b> date from </b><input type="date" value="2020-06-11" name="datefromritch" maxlength="200" width="60"> 
+        <b> to </b> <input type="date"  value="2020-06-13" name="datetoritch" maxlength="200" width="60"> </br>
+
+        <b> magnitude on ritcher scale from </b><input type="number" name="rangefrom" maxlength="200" width="60"> </br>
+    
+        <b> magnitude on ritcher scale to </b> <input type="number" name="rangeto" maxlength="200" width="60"> </br>
+        
+        <input type="submit" value="Search">
+   </form>
+</p>
+
+
+
+<p>
+    <form action="/within200kmofDallas" method="get">
+        Search for largest Quake within 200 km of Dallas <input type="submit" value="Search">
+    </form>
+</p>
+
+
+<p>
+    <form action="/newsearch" method="get">
+        Search for number of Quakes within 1000 km of Dallas and Anchorage <input type="submit" value="Search">
+    
+    </form>
+</p>
+
+
+
+
+
+
+</body>
+</html>

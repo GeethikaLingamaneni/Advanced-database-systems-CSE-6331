@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+
+    <title>{% block title %}{% endblock %}  Home</title>
+    {% endblock %}
+</head>
+<body>
+<header>
+
+  <h1>Geethika Lingamaneni<br>
+    1001743466
+    </h1>
+</header>
+<h2>All the possible words: </h2>
+{% for s in gw %}
+   
+  <p>{{s}}</p>
+
+{% endfor %}
+
+</body>
+</html>

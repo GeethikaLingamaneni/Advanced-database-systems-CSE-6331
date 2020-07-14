@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+    <title>{% block title %}{% endblock %}  Home</title>
+    {% endblock %}
+</head>
+<body>
+<header>
+<b>
+Geethika Lingamaneni <br>
+ 1001743466 <br>
+ <!-- <img src="static/images/c.png" alt="" width="120" height="120"/> -->
+</b>
+</header>
+<p>
+    <p><b>Q5</p>
+    <form action="/q45" method="get">
+       
+       Year from :<input type="text" name="yrf" maxlength="200" width="60">
+     to  :<input type="text" name="yrt" maxlength="200" width="60"><br/>
+     Country name :<input type="text" name="cou" maxlength="200" width="60"><br/>
+      <input type="submit" value="Pie Chart"><br/><br/>
+   </form> 
+ 
+   <p><b>Q6</b></p>
+    <form action="/q46" method="get">
+      
+       Year from :<input type="text" name="yrf6" maxlength="200" width="60">
+      to :<input type="text" name="yrt6" maxlength="200" width="60"><br/>
+      Country name :<input type="text" name="cou6" maxlength="200" width="60"><br/>
+      <input type="submit" value="Bar chart"><br/><br/>
+   </form> 
+
+   <p><b>Q7 </b></p>
+    <form action="/q47" method="get">
+       
+       Year from :<input type="text" name="yrf7" maxlength="200" width="60">
+        to  :<input type="text" name="yrt7" maxlength="200" width="60"><br/>
+        Country name :<input type="text" name="cou7" maxlength="200" width="60"><br/>
+      <input type="submit" value="Scatter plot"><br/><br/>
+   </form> 
+
+
+</body>
+
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+    <title>{% block title %}{% endblock %} Salary </title>
+    {% endblock %}
+</head>
+<body>
+<header>
+<b>
+<h1>Geethika Lingamaneni: 1001743466</h1>
+</b>
+</header>
+<p>
+{% block content %}
+<h3>People with salary less than 99000 :</h3>
+{% for salary in r %}
+  
+  <p><b>{{salary["Name"]}}</b>'s salary is <b>({{salary["Salary"]}})</b> and picture :  <b> 
+  <img src="static/images/{{salary["Picture"]}}" alt="" width="200" height="200"/ >
+   </b> </p>
+{% endfor %}
+{% endblock %}
+</p>
+</body>
+</html>

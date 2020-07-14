@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+    <title>{% block title %}{% endblock %}  Home</title>
+    {% endblock %}
+</head>
+<body>
+<header>
+
+<h1>Roshini
+1001757735
+</h1>
+</header>
+<h2>Mistakes</h2>
+{% for i in mis %}
+   
+  <p>{{i}}</p>
+
+{% endfor %}
+    
+<h2>Severe</h2>
+{% for i in sev %}
+   
+  <p>{{i}}</p>
+
+{% endfor %}
+
+</body>
+</html>

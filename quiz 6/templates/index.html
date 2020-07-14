@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+    <title>{% block title %}{% endblock %}  Home</title>
+    {% endblock %}
+</head>
+<body>
+<header>
+
+<h1>Geethika Lingamaneni<br> 1001743466
+</header>
+<!--<form action="/adj" method="get">
+   <input type="submit" value="adjacent nouns"><br/><br/>
+</form> 
+<hr>
+<form action="/num" method="get">
+   <input type="submit" value="number"><br/><br/>
+</form> 
+<hr>
+<form action="/wordi" method="get">
+   <input type="submit" value="word"><br/><br/>
+</form> 
+<hr>
+<form action="/nl" method="get">
+    Enter the text <input type="text" name="n" maxlength="200" width="60"><br/><br/>
+   <input type="submit" value="show n least"><br/><br/>
+</form> 
+<hr>
+<form action="/rem" method="get">
+   <input type="submit" value="show before and after"><br/><br/>
+</form> 
+<hr>
+<form action="/al" method="get">
+   <input type="submit" value="get stop words in Alamo.txt"><br/><br/>
+</form> 
+<hr>
+<form action="/s" method="get">
+   <input type="submit" value="Get tokenised words"><br/><br/>
+</form> 
+<hr>
+<form action="/c" method="get">
+   <input type="submit" value="Most frequent word"><br/><br/>
+</form> 
+<hr>
+<form action="/lc" method="get">
+   <input type="submit" value="Least frequent word"><br/><br/>
+</form> 
+<hr>
+<form action="/bigr" method="get">
+   <input type="submit" value="generate bigrams"><br/><br/>
+</form> 
+<hr>
+<form action="/oc" method="get">
+   Enter the text <input type="text" name="st" maxlength="200" width="60"><br/><br/>
+   <input type="submit" value="Find the occurances"><br/><br/>
+</form> 
+<hr>
+<form action="/oc2" method="get">
+   <input type="submit" value="Find the occurances of most fre text of 1 in 2 "><br/><br/>
+</form> 
+<hr>
+<form action="/cp" method="get">
+   Enter word 1 <input type="text" name="w1" maxlength="200" width="60"><br/><br/>
+   Enter word 2 <input type="text" name="w2" maxlength="200" width="60"><br/><br/>
+   <input type="submit" value="Find the closest proximity"><br/><br/>
+</form> 
+
+   <h3>{{mind}}</h3>
+
+
+{% for k,v in list1 %}
+   <span>
+   <h2>{{k}}</h2> count <h3>{{v}}</h3>
+   </span>
+
+
+{% endfor %}
+{% for s,v in oc %}
+   <span>
+  <h2> {{s}} <h2> count <h2>{{v}}</h2>
+   </span>
+
+
+{% endfor %}
+{% for s,v in oc1 %}
+   
+  <p>{{s}} and count {{v}}</p>
+   
+
+
+{% endfor %}
+<h2>
+<p>{{y}}</p><br/></h2>
+<h2>
+<p>{{x}}</p><br/></h2>
+<p>{{p}}
+<p>
+ -->
+<br>
+<form action="/spell" method="get">
+    Enter the word to check:<input type=text  name="word" maxlength="500" ><br/>
+    <input type="submit" name="eng" value="Spell Check"><br/>
+</form>
+</body>
+</html>

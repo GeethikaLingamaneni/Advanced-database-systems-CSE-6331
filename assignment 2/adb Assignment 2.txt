@@ -1,0 +1,249 @@
+
+
+Paper View
+LINK FOR ASSIGNMENT 2 ON CLOUD:     https://q1geethika.mybluemix.net/ (Links to an external site.)
+
+What were largest 5 quakes?
+
+<p>
+    <form action="/largest5" method="post">
+        Search for 5 largest earthquakes <input type="submit" value="Search">
+    </form>
+</p>
+def largest():
+    # connect to DB2
+    db2conn = ibm_db.connect("DATABASE="+db2cred['db']+";HOSTNAME="+db2cred['hostname']+";PORT="+str(db2cred['port'])+";UID="+db2cred['username']+";PWD="+db2cred['password']+";","","")
+    if db2conn:
+        # we have a Db2 connection, query the database
+        sql='Select "mag","time","place"  from EARTHQ where "mag" is not NULL order by "mag" DESC limit 5'
+        stmt = ibm_db.prepare(db2conn,sql)
+        ibm_db.execute(stmt)
+        rows=[]
+        result = ibm_db.fetch_assoc(stmt)
+        while result != False:
+            rows.append(result.copy())
+            result = ibm_db.fetch_assoc(stmt)
+        ibm_db.close(db2conn)
+    return render_template('largest.html',r=rows)
+    
+@app.route('/largest5', methods=['POST'])
+def large():
+    return largest()
+{% block content %}
+{% for ci in r %}
+  
+ <b>Mag: {{ci["mag"]}}</b> <b>Time: {{ci["time"]}}</b> <b>Place: {{ci["place"]}}</b> <br>
+
+{% endfor %}
+{% endblock %}
+What quakes occurred within 500 km of Arlington, Texas
+<p>
+    <form action="/within500kmofA" method="post">
+        Search for Quakes within 500 km of Arlington <input type="submit" value="Search">
+    </form>
+</p>
+def arlington():
+    db2conn = ibm_db.connect("DATABASE="+db2cred['db']+";HOSTNAME="+db2cred['hostname']+";PORT="+str(db2cred['port'])+";UID="+db2cred['username']+";PWD="+db2cred['password']+";","","")
+    if db2conn:
+        # we have a Db2 connection, query the database
+        sql='SELECT "mag","time","place" FROM EARTHQ WHERE acos(sin(0.0175*32.7357) * sin(0.0175*"latitude") + cos(0.0175*32.7357) * cos(0.0175*"latitude") * cos(0.0175*"longitude" - (0.0175* -97.1081)) )* 6371 < 500'
+        # Note that for security reasons we are preparing the statement first,
+        # then bind the form input as value to the statement to replace the
+        # parameter marker.
+        stmt = ibm_db.prepare(db2conn,sql)
+        ibm_db.execute(stmt)
+        rows=[]
+        # fetch the result
+        result = ibm_db.fetch_assoc(stmt)
+        while result != False:
+            rows.append(result.copy())
+            result = ibm_db.fetch_assoc(stmt)
+        # close database connection
+        ibm_db.close(db2conn)
+    return render_template('largest.html',r=rows)
+@app.route('/within500kmofA', methods=['POST'])
+def nearer():
+    return arlington()
+{% block content %}
+{% for ci in r %}
+  
+ <b>Mag: {{ci["mag"]}}</b> <b>Time: {{ci["time"]}}</b> <b>Place: {{ci["place"]}}</b> <br>
+
+{% endfor %}
+{% endblock %}
+For the date range June 1through June 8 (or variable..) how many quakes greater than 3 on Richter scale
+<p>
+    <form action="/quakesinjune1-8" method="get">
+       <b> date from </b><input type="date" value="2020-06-01" name="datefrom" maxlength="200" width="60"> 
+        <b>to </b> <input type="date"  value="2020-06-08" name="dateto" maxlength="200" width="60"> </br>
+
+     <b>   Search for the earthquakes greater than 3 magnitude from 1-8 june</b><input type="submit" value="search">
+    </form>
+</p>
+def greaterthan3(datefrom=None, dateto=None):
+    db2conn = ibm_db.connect("DATABASE="+db2cred['db']+";HOSTNAME="+db2cred['hostname']+";PORT="+str(db2cred['port'])+";UID="+db2cred['username']+";PWD="+db2cred['password']+";","","")
+    if db2conn:
+        # we have a Db2 connection, query the database
+        sql='select "mag","time","place" from EARTHQ where "mag">3 and ("time" between ? and ?)'
+        stmt = ibm_db.prepare(db2conn,sql)
+        ibm_db.bind_param(stmt, 1, datefrom)
+        ibm_db.bind_param(stmt, 2, dateto)
+        ibm_db.execute(stmt)
+        rows=[]
+        # fetch the result
+        result = ibm_db.fetch_assoc(stmt)
+        while result != False:
+            rows.append(result.copy())
+            result = ibm_db.fetch_assoc(stmt)
+        # close database connection
+        ibm_db.close(db2conn)
+    return render_template('largest.html',r=rows)
+    
+@app.route('/quakesinjune1-8', methods=['GET'])
+def greater():
+    datefrom = request.args.get('datefrom', '')
+    dateto = request.args.get('dateto', '')
+    return greaterthan3(datefrom, dateto)
+{% block content %}
+{% for ci in r %}
+  
+ <b>Mag: {{ci["mag"]}}</b> <b>Time: {{ci["time"]}}</b> <b>Place: {{ci["place"]}}</b> <br>
+
+{% endfor %}
+{% endblock %}
+In most recent 3 days, how many quakes (Richter scale): 1 to 2, 2 to 3, 3 to 4, up to 7?
+<p>
+    <form action="/quakesrange" method="get">
+        <b> date from </b><input type="date" value="2020-06-11" name="datefromritch" maxlength="200" width="60"> 
+        <b> to </b> <input type="date"  value="2020-06-13" name="datetoritch" maxlength="200" width="60"> </br>
+
+        <b> magnitude on ritcher scale from </b><input type="number" name="rangefrom" maxlength="200" width="60"> </br>
+    
+        <b> magnitude on ritcher scale to </b> <input type="number" name="rangeto" maxlength="200" width="60"> </br>
+        
+        <input type="submit" value="Search">
+   </form>
+</p>
+def recent3days(rangefrom=None, rangeto=None, datefromritch=None, datetoritch=None):
+    # connect to DB2
+    db2conn = ibm_db.connect("DATABASE="+db2cred['db']+";HOSTNAME="+db2cred['hostname']+";PORT="+str(db2cred['port'])+";UID="+db2cred['username']+";PWD="+db2cred['password']+";","","")
+    if db2conn:
+        # we have a Db2 connection, query the database
+       
+        sql='select count(*) from EARTHQ where ("mag" BETWEEN ? AND ?) AND ("time" between ? AND ?)'
+        #Note that for security reasons we are preparing the statement first,
+        # then bind the form input as value to the statement to replace the
+        # parameter marker.
+        stmt = ibm_db.prepare(db2conn,sql)
+        ibm_db.bind_param(stmt, 1, rangefrom)
+        ibm_db.bind_param(stmt, 2, rangeto)
+        ibm_db.bind_param(stmt, 3, datefromritch)
+        ibm_db.bind_param(stmt, 4, datetoritch)
+        ibm_db.execute(stmt)
+        rows=[]
+        # fetch the result
+        result = ibm_db.fetch_assoc(stmt)
+        while result != False:
+            rows.append(result.copy())
+            result = ibm_db.fetch_assoc(stmt)
+        # close database connection
+        ibm_db.close(db2conn) 
+    return render_template('count.html', r=rows)
+    
+@app.route('/quakesrange', methods=['GET'])
+def rangeq():
+    datefromritch = request.args.get('datefromritch', '')
+    datetoritch = request.args.get('datetoritch', '')
+    rangefrom = request.args.get('rangefrom', '')
+    rangeto = request.args.get('rangeto', '') 
+    return recent3days(rangefrom, rangeto, datefromritch, datetoritch)  
+{% block content %}
+{% for ci in r %}
+  
+  <p><b>{{ci}}</b></p>
+
+{% endfor %}
+{% endblock %}
+Are quakes more common within 1000 km of Anchorage (61 N, 150 W) than Dallas (32.8 N, 96.8 W)?
+<p>
+    <form action="/newsearch" method="get">
+        Search for number of Quakes within 1000 km of Dallas and Anchorage <input type="submit" value="Search">
+    
+    </form>
+</p>
+def new():
+    db2conn = ibm_db.connect("DATABASE="+db2cred['db']+";HOSTNAME="+db2cred['hostname']+";PORT="+str(db2cred['port'])+";UID="+db2cred['username']+";PWD="+db2cred['password']+";","","")
+    if db2conn:
+        # we have a Db2 connection, query the database
+        sql='SELECT count(*) FROM EARTHQ WHERE acos(sin(0.0175*32.7767) * sin(0.0175*"latitude") + cos(0.0175*32.7767) * cos(0.0175*"latitude") * cos(0.0175*"longitude" - (0.0175* (-97.1081)))) * 6371 < 1000'
+        stmt = ibm_db.prepare(db2conn,sql)
+        ibm_db.execute(stmt)
+        rows=[]
+        result = ibm_db.fetch_assoc(stmt)
+        while result != False:
+            rows.append(result.copy())
+            result = ibm_db.fetch_assoc(stmt)
+        sql1='SELECT count(*) FROM EARTHQ WHERE acos(sin(0.0175*61) * sin(0.0175*"latitude") + cos(0.0175*61) * cos(0.0175*"latitude") * cos(0.0175*"longitude" - (0.0175* (-150)))) * 6371 < 1000'
+        stmt = ibm_db.prepare(db2conn,sql1)
+        ibm_db.execute(stmt)
+        rowsa=[]
+        # fetch the result
+        result = ibm_db.fetch_assoc(stmt)
+        while result != False:
+            rowsa.append(result.copy())
+            result = ibm_db.fetch_assoc(stmt)
+        # close database connection
+        ibm_db.close(db2conn)
+    return render_template('both.html',r=rows,l=rowsa)
+
+@app.route('/newsearch', methods=['GET'])
+def newarea():
+    return new()
+{% block content %}
+{% for ci in r %}
+  <p><b>dallas: {{ci}}</b></p>
+ 
+{% for d in l %}  
+  <p><b>anchorage: {{d}}</b></p>
+  
+  The number of earth quakes within 1000kms of Anchorage: {{d}} is more than Dallas: {{ci}}
+
+{% endfor %}
+{% endfor %} 
+{% endblock %}
+Where did largest quake occur within 200 km of Dallas?
+<p>
+    <form action="/within200kmofDallas" method="get">
+        Search for largest Quake within 200 km of Dallas <input type="submit" value="Search">
+    </form>
+</p>
+def dallas():
+    db2conn = ibm_db.connect("DATABASE="+db2cred['db']+";HOSTNAME="+db2cred['hostname']+";PORT="+str(db2cred['port'])+";UID="+db2cred['username']+";PWD="+db2cred['password']+";","","")
+    if db2conn:
+        # we have a Db2 connection, query the database
+        sql='SELECT "mag","time","place"  FROM EARTHQ WHERE acos(sin(0.0175*32.7767) * sin(0.0175*"latitude") + cos(0.0175*32.7767) * cos(0.0175*"latitude") * cos(0.0175*"longitude" - (0.0175* -97.1081))) * 6371 < 200 order by "mag" desc LIMIT 1'
+        # Note that for security reasons we are preparing the statement first,
+        # then bind the form input as value to the statement to replace the
+        # parameter marker.
+        stmt = ibm_db.prepare(db2conn,sql)
+        ibm_db.execute(stmt)
+        rows=[]
+        # fetch the result
+        result = ibm_db.fetch_assoc(stmt)
+        while result != False:
+            rows.append(result.copy())
+            result = ibm_db.fetch_assoc(stmt)
+        # close database connection
+        ibm_db.close(db2conn)
+    return render_template('largest.html',r=rows)
+
+@app.route('/within200kmofDallas', methods=['GET'])
+def near():
+    return dallas()
+{% block content %}
+{% for ci in r %}
+  
+ <b>Mag: {{ci["mag"]}}</b> <b>Time: {{ci["time"]}}</b> <b>Place: {{ci["place"]}}</b> <br>
+
+{% endfor %}
+{% endblock %}

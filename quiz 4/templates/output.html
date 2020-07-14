@@ -1,0 +1,24 @@
+<header>
+    <b>
+   Geethika Lingamaneni : 1001743466
+    </b>
+    </header>
+    
+    The states with population between the 2 to 8 million are below
+    <p>
+    {% block content %}
+    
+    {% for city in ci %}
+    {{city}} 
+    <br/>
+    {% endfor %}
+    <br/>
+    <br/>
+    The states with population between the 8 to 40 million are below
+    <p>
+    {% for city in ci1 %}
+    {{city}} 
+    <br/>
+    {% endfor %}
+    
+    {% endblock %}
